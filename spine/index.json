@@ -35,6 +35,48 @@
    "code": "GG_elfeldt",
    "source": "gf-spine-simulator"
   },
+  "1003": {
+   "bundles": [
+    "character_kiana_spine"
+   ],
+   "code": "kiana",
+   "source": "cdn"
+  },
+  "1004": {
+   "bundles": [
+    "character_raidenmei_spine"
+   ],
+   "code": "raidenmei",
+   "source": "cdn"
+  },
+  "1005": {
+   "bundles": [
+    "character_bronya_spine"
+   ],
+   "code": "bronya",
+   "source": "cdn"
+  },
+  "1006": {
+   "bundles": [
+    "character_theresa_spine"
+   ],
+   "code": "theresa",
+   "source": "cdn"
+  },
+  "1007": {
+   "bundles": [
+    "character_himeko_spine"
+   ],
+   "code": "himeko",
+   "source": "cdn"
+  },
+  "1008": {
+   "bundles": [
+    "character_seele_spine"
+   ],
+   "code": "seele",
+   "source": "cdn"
+  },
   "1009": {
    "bundles": [
     "CLEAR"
@@ -56,12 +98,96 @@
    "code": "FAIL",
    "source": "gf-spine-simulator"
   },
+  "1017": {
+   "bundles": [
+    "character_jill_spine"
+   ],
+   "code": "Jill",
+   "source": "cdn"
+  },
+  "1018": {
+   "bundles": [
+    "character_sei_spine"
+   ],
+   "code": "SEI",
+   "source": "cdn"
+  },
+  "1019": {
+   "bundles": [
+    "character_dorothy_spine"
+   ],
+   "code": "Dorothy",
+   "source": "cdn"
+  },
   "102": {
    "bundles": [
     "UMP40"
    ],
    "code": "UMP40",
    "source": "gf-spine-simulator"
+  },
+  "1020": {
+   "bundles": [
+    "character_stella_spine"
+   ],
+   "code": "Stella",
+   "source": "cdn"
+  },
+  "1021": {
+   "bundles": [
+    "character_alma_spine"
+   ],
+   "code": "Alma",
+   "source": "cdn"
+  },
+  "1022": {
+   "bundles": [
+    "character_dana_spine"
+   ],
+   "code": "Dana",
+   "source": "cdn"
+  },
+  "1023": {
+   "bundles": [
+    "character_henrietta_spine"
+   ],
+   "code": "Henrietta",
+   "source": "cdn"
+  },
+  "1024": {
+   "bundles": [
+    "character_rico_spine"
+   ],
+   "code": "Rico",
+   "source": "cdn"
+  },
+  "1025": {
+   "bundles": [
+    "character_triela_spine"
+   ],
+   "code": "Triela",
+   "source": "cdn"
+  },
+  "1026": {
+   "bundles": [
+    "character_claes_spine"
+   ],
+   "code": "Claes",
+   "source": "cdn"
+  },
+  "1027": {
+   "bundles": [
+    "character_angelica_spine"
+   ],
+   "code": "Angelica",
+   "source": "cdn"
+  },
+  "1028": {
+   "bundles": [
+    "character_vectoragent_spine"
+   ],
+   "code": "VectorAgent",
+   "source": "cdn"
   },
   "1029": {
    "bundles": [
@@ -945,6 +1071,13 @@
    "code": "CBJMS",
    "source": "gf-spine-simulator"
   },
+  "214": {
+   "bundles": [
+    "character_ads_spine"
+   ],
+   "code": "ADS",
+   "source": "cdn"
+  },
   "215": {
    "bundles": [
     "MDR"
@@ -1022,6 +1155,13 @@
    "code": "Cx4Storm",
    "source": "gf-spine-simulator"
   },
+  "226": {
+   "bundles": [
+    "character_mk12_spine"
+   ],
+   "code": "Mk12",
+   "source": "cdn"
+  },
   "227": {
    "bundles": [
     "A91"
@@ -1036,12 +1176,33 @@
    "code": "Type100",
    "source": "gf-spine-simulator"
   },
+  "229": {
+   "bundles": [
+    "character_m870p_spine"
+   ],
+   "code": "M870P",
+   "source": "cdn"
+  },
   "23": {
    "bundles": [
     "PP90"
    ],
    "code": "PP90",
    "source": "gf-spine-simulator"
+  },
+  "230": {
+   "bundles": [
+    "character_obr_spine"
+   ],
+   "code": "OBR",
+   "source": "cdn"
+  },
+  "231": {
+   "bundles": [
+    "character_m82a1_spine"
+   ],
+   "code": "M82A1",
+   "source": "cdn"
   },
   "232": {
    "bundles": [
@@ -1085,6 +1246,13 @@
    "code": "SAR21",
    "source": "gf-spine-simulator"
   },
+  "238": {
+   "bundles": [
+    "character_type88_spine"
+   ],
+   "code": "Type88",
+   "source": "cdn"
+  },
   "239": {
    "bundles": [
     "Type03"
@@ -1098,6 +1266,27 @@
    ],
    "code": "PP2000",
    "source": "gf-spine-simulator"
+  },
+  "240": {
+   "bundles": [
+    "character_mk46_spine"
+   ],
+   "code": "Mk46",
+   "source": "cdn"
+  },
+  "241": {
+   "bundles": [
+    "character_rt20_spine"
+   ],
+   "code": "RT20",
+   "source": "cdn"
+  },
+  "242": {
+   "bundles": [
+    "character_p22_spine"
+   ],
+   "code": "P22",
+   "source": "cdn"
   },
   "243": {
    "bundles": [
@@ -1120,6 +1309,13 @@
    "code": "P90",
    "source": "gf-spine-simulator"
   },
+  "247": {
+   "bundles": [
+    "character_k31_spine"
+   ],
+   "code": "K31",
+   "source": "cdn"
+  },
   "248": {
    "bundles": [
     "Jericho"
@@ -1141,12 +1337,152 @@
    "code": "MP40",
    "source": "gf-spine-simulator"
   },
+  "250": {
+   "bundles": [
+    "character_hs2000_spine"
+   ],
+   "code": "HS2000",
+   "source": "cdn"
+  },
+  "251": {
+   "bundles": [
+    "character_x95_spine"
+   ],
+   "code": "X95",
+   "source": "cdn"
+  },
+  "252": {
+   "bundles": [
+    "character_ksvk_spine"
+   ],
+   "code": "KSVK",
+   "source": "cdn"
+  },
+  "253": {
+   "bundles": [
+    "character_lewis_spine"
+   ],
+   "code": "Lewis",
+   "source": "cdn"
+  },
+  "254": {
+   "bundles": [
+    "character_ukm2000_spine"
+   ],
+   "code": "UKM2000",
+   "source": "cdn"
+  },
+  "255": {
+   "bundles": [
+    "character_scout_spine"
+   ],
+   "code": "scout",
+   "source": "cdn"
+  },
+  "256": {
+   "bundles": [
+    "character_falcon_spine"
+   ],
+   "code": "Falcon",
+   "source": "cdn"
+  },
+  "257": {
+   "bundles": [
+    "character_m200_spine"
+   ],
+   "code": "M200",
+   "source": "cdn"
+  },
+  "258": {
+   "bundles": [
+    "character_magal_spine"
+   ],
+   "code": "Magal",
+   "source": "cdn"
+  },
+  "259": {
+   "bundles": [
+    "character_pm9_spine"
+   ],
+   "code": "PM9",
+   "source": "cdn"
+  },
   "26": {
    "bundles": [
     "MP5"
    ],
    "code": "MP5",
    "source": "gf-spine-simulator"
+  },
+  "260": {
+   "bundles": [
+    "character_pa15_spine"
+   ],
+   "code": "PA15",
+   "source": "cdn"
+  },
+  "261": {
+   "bundles": [
+    "character_qbu88_spine"
+   ],
+   "code": "QBU88",
+   "source": "cdn"
+  },
+  "262": {
+   "bundles": [
+    "character_em2_spine"
+   ],
+   "code": "EM2",
+   "source": "cdn"
+  },
+  "263": {
+   "bundles": [
+    "character_mg36_spine"
+   ],
+   "code": "MG36",
+   "source": "cdn"
+  },
+  "264": {
+   "bundles": [
+    "character_chauchatm1915_spine"
+   ],
+   "code": "ChauchatM1915",
+   "source": "cdn"
+  },
+  "265": {
+   "bundles": [
+    "character_hk33_spine"
+   ],
+   "code": "HK33",
+   "source": "cdn"
+  },
+  "266": {
+   "bundles": [
+    "character_r93_spine"
+   ],
+   "code": "R93",
+   "source": "cdn"
+  },
+  "267": {
+   "bundles": [
+    "character_mp41_spine"
+   ],
+   "code": "MP41",
+   "source": "cdn"
+  },
+  "268": {
+   "bundles": [
+    "character_tcms_spine"
+   ],
+   "code": "TCMS",
+   "source": "cdn"
+  },
+  "269": {
+   "bundles": [
+    "character_p30_spine"
+   ],
+   "code": "P30",
+   "source": "cdn"
   },
   "27": {
    "bundles": [
@@ -1155,12 +1491,145 @@
    "code": "VZ61",
    "source": "gf-spine-simulator"
   },
+  "270": {
+   "bundles": [
+    "character_4type_spine"
+   ],
+   "code": "4type",
+   "source": "cdn"
+  },
+  "271": {
+   "bundles": [
+    "character_k3_spine"
+   ],
+   "code": "K3",
+   "source": "cdn"
+  },
+  "272": {
+   "bundles": [
+    "character_deserteagle_spine"
+   ],
+   "code": "DesertEagle",
+   "source": "cdn"
+  },
+  "273": {
+   "bundles": [
+    "character_ssg3000_spine"
+   ],
+   "code": "SSG3000",
+   "source": "cdn"
+  },
+  "274": {
+   "bundles": [
+    "character_acr_spine"
+   ],
+   "code": "ACR",
+   "source": "cdn"
+  },
+  "275": {
+   "bundles": [
+    "character_m1895mg_spine"
+   ],
+   "code": "M1895MG",
+   "source": "cdn"
+  },
+  "276": {
+   "bundles": [
+    "character_kord_spine"
+   ],
+   "code": "Kord",
+   "source": "cdn"
+  },
+  "277": {
+   "bundles": [
+    "character_vp70_spine"
+   ],
+   "code": "VP70",
+   "source": "cdn"
+  },
+  "278": {
+   "bundles": [
+    "character_six12_spine"
+   ],
+   "code": "Six12",
+   "source": "cdn"
+  },
+  "279": {
+   "bundles": [
+    "character_insas_spine"
+   ],
+   "code": "INSAS",
+   "source": "cdn"
+  },
   "28": {
    "bundles": [
     "MP7"
    ],
    "code": "MP7",
    "source": "gf-spine-simulator"
+  },
+  "280": {
+   "bundles": [
+    "character_mat49_spine"
+   ],
+   "code": "MAT49",
+   "source": "cdn"
+  },
+  "281": {
+   "bundles": [
+    "character_hkcaws_spine"
+   ],
+   "code": "HKCAWS",
+   "source": "cdn"
+  },
+  "282": {
+   "bundles": [
+    "character_dp12_spine"
+   ],
+   "code": "DP12",
+   "source": "cdn"
+  },
+  "283": {
+   "bundles": [
+    "character_liberator_spine"
+   ],
+   "code": "Liberator",
+   "source": "cdn"
+  },
+  "284": {
+   "bundles": [
+    "character_zasm76_spine"
+   ],
+   "code": "ZasM76",
+   "source": "cdn"
+  },
+  "285": {
+   "bundles": [
+    "character_c93_spine"
+   ],
+   "code": "C93",
+   "source": "cdn"
+  },
+  "286": {
+   "bundles": [
+    "character_kac_spine"
+   ],
+   "code": "KAC",
+   "source": "cdn"
+  },
+  "287": {
+   "bundles": [
+    "character_sig556_spine"
+   ],
+   "code": "SIG556",
+   "source": "cdn"
+  },
+  "288": {
+   "bundles": [
+    "character_cr21_spine"
+   ],
+   "code": "CR21",
+   "source": "cdn"
   },
   "289": {
    "bundles": [
@@ -1176,12 +1645,152 @@
    "code": "StenMK2",
    "source": "gf-spine-simulator"
   },
+  "290": {
+   "bundles": [
+    "character_howatype89_spine"
+   ],
+   "code": "HowaType89",
+   "source": "cdn"
+  },
+  "291": {
+   "bundles": [
+    "character_danuvia43m_spine"
+   ],
+   "code": "Danuvia43M",
+   "source": "cdn"
+  },
+  "292": {
+   "bundles": [
+    "character_rpk16_spine"
+   ],
+   "code": "RPK16",
+   "source": "cdn"
+  },
+  "293": {
+   "bundles": [
+    "character_ak15_spine"
+   ],
+   "code": "AK15",
+   "source": "cdn"
+  },
+  "294": {
+   "bundles": [
+    "character_webley_spine"
+   ],
+   "code": "Webley",
+   "source": "cdn"
+  },
+  "295": {
+   "bundles": [
+    "character_06typesmg_spine"
+   ],
+   "code": "06TypeSMG",
+   "source": "cdn"
+  },
+  "296": {
+   "bundles": [
+    "character_sl8_spine"
+   ],
+   "code": "SL8",
+   "source": "cdn"
+  },
+  "297": {
+   "bundles": [
+    "character_m82_spine"
+   ],
+   "code": "M82",
+   "source": "cdn"
+  },
+  "298": {
+   "bundles": [
+    "character_vepr_spine"
+   ],
+   "code": "VEPR",
+   "source": "cdn"
+  },
+  "299": {
+   "bundles": [
+    "character_hsm10_spine"
+   ],
+   "code": "HSM10",
+   "source": "cdn"
+  },
   "3": {
    "bundles": [
     "M9"
    ],
    "code": "M9",
    "source": "gf-spine-simulator"
+  },
+  "300": {
+   "bundles": [
+    "character_car_spine"
+   ],
+   "code": "CAR",
+   "source": "cdn"
+  },
+  "301": {
+   "bundles": [
+    "character_mas38_spine"
+   ],
+   "code": "MAS38",
+   "source": "cdn"
+  },
+  "302": {
+   "bundles": [
+    "character_coltdefender_spine"
+   ],
+   "code": "ColtDefender",
+   "source": "cdn"
+  },
+  "303": {
+   "bundles": [
+    "character_browninghp_spine"
+   ],
+   "code": "BrowningHP",
+   "source": "cdn"
+  },
+  "304": {
+   "bundles": [
+    "character_saf_spine"
+   ],
+   "code": "SAF",
+   "source": "cdn"
+  },
+  "305": {
+   "bundles": [
+    "character_tabuk_spine"
+   ],
+   "code": "Tabuk",
+   "source": "cdn"
+  },
+  "306": {
+   "bundles": [
+    "character_akalfa_spine"
+   ],
+   "code": "AKAlfa",
+   "source": "cdn"
+  },
+  "307": {
+   "bundles": [
+    "character_zb26_spine"
+   ],
+   "code": "ZB26",
+   "source": "cdn"
+  },
+  "308": {
+   "bundles": [
+    "character_c14_spine"
+   ],
+   "code": "C14",
+   "source": "cdn"
+  },
+  "309": {
+   "bundles": [
+    "character_wkp_spine"
+   ],
+   "code": "WKP",
+   "source": "cdn"
   },
   "31": {
    "bundles": [
@@ -1190,12 +1799,61 @@
    "code": "MAB38",
    "source": "gf-spine-simulator"
   },
+  "310": {
+   "bundles": [
+    "character_rexzero1_spine"
+   ],
+   "code": "RexZero1",
+   "source": "cdn"
+  },
+  "311": {
+   "bundles": [
+    "character_lusa_spine"
+   ],
+   "code": "Lusa",
+   "source": "cdn"
+  },
+  "312": {
+   "bundles": [
+    "character_vsk_spine"
+   ],
+   "code": "VSK",
+   "source": "cdn"
+  },
+  "313": {
+   "bundles": [
+    "character_sacr_spine"
+   ],
+   "code": "SACR",
+   "source": "cdn"
+  },
+  "314": {
+   "bundles": [
+    "character_stg940_spine"
+   ],
+   "code": "stg940",
+   "source": "cdn"
+  },
+  "315": {
+   "bundles": [
+    "character_augpara_spine"
+   ],
+   "code": "AUGPARA",
+   "source": "cdn"
+  },
   "316": {
    "bundles": [
     "generalliu_5101"
    ],
    "code": "GeneralLiu",
    "source": "this repo"
+  },
+  "317": {
+   "bundles": [
+    "character_mondragonm1908_spine"
+   ],
+   "code": "MondragonM1908",
+   "source": "cdn"
   },
   "318": {
    "bundles": [
@@ -1204,6 +1862,13 @@
    "code": "VHS",
    "source": "this repo"
   },
+  "319": {
+   "bundles": [
+    "character_pm1910_spine"
+   ],
+   "code": "PM1910",
+   "source": "cdn"
+  },
   "32": {
    "bundles": [
     "MicroUZI"
@@ -1211,12 +1876,89 @@
    "code": "MicroUZI",
    "source": "gf-spine-simulator"
   },
+  "320": {
+   "bundles": [
+    "character_gm6lynx_spine"
+   ],
+   "code": "Gm6Lynx",
+   "source": "cdn"
+  },
+  "321": {
+   "bundles": [
+    "character_tavorts12_spine"
+   ],
+   "code": "TavorTS12",
+   "source": "cdn"
+  },
+  "322": {
+   "bundles": [
+    "character_qsb91_spine"
+   ],
+   "code": "QSB91",
+   "source": "cdn"
+  },
+  "323": {
+   "bundles": [
+    "character_ltlx7000_spine"
+   ],
+   "code": "LTLX7000",
+   "source": "cdn"
+  },
+  "324": {
+   "bundles": [
+    "character_m6asw_spine"
+   ],
+   "code": "M6ASW",
+   "source": "cdn"
+  },
+  "325": {
+   "bundles": [
+    "character_vpm5_spine"
+   ],
+   "code": "VPM5",
+   "source": "cdn"
+  },
+  "326": {
+   "bundles": [
+    "character_hk512_spine"
+   ],
+   "code": "HK512",
+   "source": "cdn"
+  },
+  "327": {
+   "bundles": [
+    "character_sub2000_spine"
+   ],
+   "code": "SUB2000",
+   "source": "cdn"
+  },
+  "328": {
+   "bundles": [
+    "character_ar57_spine"
+   ],
+   "code": "AR57",
+   "source": "cdn"
+  },
+  "329": {
+   "bundles": [
+    "character_svch_spine"
+   ],
+   "code": "SVCh",
+   "source": "cdn"
+  },
   "33": {
    "bundles": [
     "m45"
    ],
    "code": "m45",
    "source": "gf-spine-simulator"
+  },
+  "330": {
+   "bundles": [
+    "character_fx05_spine"
+   ],
+   "code": "FX05",
+   "source": "cdn"
   },
   "34": {
    "bundles": [
@@ -1696,112 +2438,5 @@
    "source": "gf-spine-simulator"
   }
  },
- "missing": [
-  214,
-  226,
-  229,
-  230,
-  231,
-  238,
-  240,
-  241,
-  242,
-  247,
-  250,
-  251,
-  252,
-  253,
-  254,
-  255,
-  256,
-  257,
-  258,
-  259,
-  260,
-  261,
-  262,
-  263,
-  264,
-  265,
-  266,
-  267,
-  268,
-  269,
-  270,
-  271,
-  272,
-  273,
-  274,
-  275,
-  276,
-  277,
-  278,
-  279,
-  280,
-  281,
-  282,
-  283,
-  284,
-  285,
-  286,
-  287,
-  288,
-  290,
-  291,
-  292,
-  293,
-  294,
-  295,
-  296,
-  297,
-  298,
-  299,
-  300,
-  301,
-  302,
-  303,
-  304,
-  305,
-  306,
-  307,
-  308,
-  309,
-  310,
-  311,
-  312,
-  313,
-  314,
-  315,
-  317,
-  319,
-  320,
-  321,
-  322,
-  323,
-  324,
-  325,
-  326,
-  327,
-  328,
-  329,
-  330,
-  1003,
-  1004,
-  1005,
-  1006,
-  1007,
-  1008,
-  1017,
-  1018,
-  1019,
-  1020,
-  1021,
-  1022,
-  1023,
-  1024,
-  1025,
-  1026,
-  1027,
-  1028
- ]
+ "missing": []
 }
