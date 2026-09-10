@@ -1,0 +1,1807 @@
+{
+ "dolls": {
+  "1": {
+   "bundles": [
+    "M1873"
+   ],
+   "code": "M1873",
+   "source": "gf-spine-simulator"
+  },
+  "10": {
+   "bundles": [
+    "PPK"
+   ],
+   "code": "PPK",
+   "source": "gf-spine-simulator"
+  },
+  "100": {
+   "bundles": [
+    "P7"
+   ],
+   "code": "P7",
+   "source": "gf-spine-simulator"
+  },
+  "1001": {
+   "bundles": [
+    "BB_Noel"
+   ],
+   "code": "BB_Noel",
+   "source": "gf-spine-simulator"
+  },
+  "1002": {
+   "bundles": [
+    "GG_elfeldt"
+   ],
+   "code": "GG_elfeldt",
+   "source": "gf-spine-simulator"
+  },
+  "1009": {
+   "bundles": [
+    "CLEAR"
+   ],
+   "code": "CLEAR",
+   "source": "gf-spine-simulator"
+  },
+  "101": {
+   "bundles": [
+    "UMP9"
+   ],
+   "code": "UMP9",
+   "source": "gf-spine-simulator"
+  },
+  "1010": {
+   "bundles": [
+    "FAIL"
+   ],
+   "code": "FAIL",
+   "source": "gf-spine-simulator"
+  },
+  "102": {
+   "bundles": [
+    "UMP40"
+   ],
+   "code": "UMP40",
+   "source": "gf-spine-simulator"
+  },
+  "1029": {
+   "bundles": [
+    "hk416agent"
+   ],
+   "code": "HK416Agent",
+   "source": "this repo"
+  },
+  "103": {
+   "bundles": [
+    "UMP45"
+   ],
+   "code": "UMP45",
+   "source": "gf-spine-simulator"
+  },
+  "104": {
+   "bundles": [
+    "G36C"
+   ],
+   "code": "G36C",
+   "source": "gf-spine-simulator"
+  },
+  "105": {
+   "bundles": [
+    "OTs12"
+   ],
+   "code": "OTs12",
+   "source": "gf-spine-simulator"
+  },
+  "106": {
+   "bundles": [
+    "FNFAL"
+   ],
+   "code": "FNFAL",
+   "source": "gf-spine-simulator"
+  },
+  "107": {
+   "bundles": [
+    "F2000"
+   ],
+   "code": "F2000",
+   "source": "gf-spine-simulator"
+  },
+  "108": {
+   "bundles": [
+    "CZ805"
+   ],
+   "code": "CZ805",
+   "source": "gf-spine-simulator"
+  },
+  "109": {
+   "bundles": [
+    "MG5"
+   ],
+   "code": "MG5",
+   "source": "gf-spine-simulator"
+  },
+  "11": {
+   "bundles": [
+    "P08"
+   ],
+   "code": "P08",
+   "source": "gf-spine-simulator"
+  },
+  "110": {
+   "bundles": [
+    "FG42",
+    "fg42"
+   ],
+   "code": "FG42",
+   "source": "gf-spine-simulator"
+  },
+  "111": {
+   "bundles": [
+    "AAT52"
+   ],
+   "code": "AAT52",
+   "source": "gf-spine-simulator"
+  },
+  "112": {
+   "bundles": [
+    "NEGEV"
+   ],
+   "code": "NEGEV",
+   "source": "gf-spine-simulator"
+  },
+  "113": {
+   "bundles": [
+    "SPS"
+   ],
+   "code": "SPS",
+   "source": "gf-spine-simulator"
+  },
+  "114": {
+   "bundles": [
+    "Welrod"
+   ],
+   "code": "Welrod",
+   "source": "gf-spine-simulator"
+  },
+  "115": {
+   "bundles": [
+    "KP31"
+   ],
+   "code": "KP31",
+   "source": "gf-spine-simulator"
+  },
+  "116": {
+   "bundles": [
+    "Z62"
+   ],
+   "code": "Z62",
+   "source": "gf-spine-simulator"
+  },
+  "117": {
+   "bundles": [
+    "PSG1"
+   ],
+   "code": "PSG1",
+   "source": "gf-spine-simulator"
+  },
+  "118": {
+   "bundles": [
+    "9A91",
+    "9a91",
+    "9a91_1302",
+    "9a91_4104"
+   ],
+   "code": "9A91",
+   "source": "gf-spine-simulator"
+  },
+  "119": {
+   "bundles": [
+    "OTs14"
+   ],
+   "code": "OTs14",
+   "source": "gf-spine-simulator"
+  },
+  "12": {
+   "bundles": [
+    "C96"
+   ],
+   "code": "C96",
+   "source": "gf-spine-simulator"
+  },
+  "120": {
+   "bundles": [
+    "ARX160"
+   ],
+   "code": "ARX160",
+   "source": "gf-spine-simulator"
+  },
+  "121": {
+   "bundles": [
+    "MK48"
+   ],
+   "code": "Mk48",
+   "source": "gf-spine-simulator"
+  },
+  "122": {
+   "bundles": [
+    "G11"
+   ],
+   "code": "G11",
+   "source": "gf-spine-simulator"
+  },
+  "123": {
+   "bundles": [
+    "P99"
+   ],
+   "code": "P99",
+   "source": "gf-spine-simulator"
+  },
+  "124": {
+   "bundles": [
+    "SuperSass"
+   ],
+   "code": "SuperSASS",
+   "source": "gf-spine-simulator"
+  },
+  "125": {
+   "bundles": [
+    "MG4"
+   ],
+   "code": "MG4",
+   "source": "gf-spine-simulator"
+  },
+  "126": {
+   "bundles": [
+    "NZ75"
+   ],
+   "code": "NZ75",
+   "source": "gf-spine-simulator"
+  },
+  "127": {
+   "bundles": [
+    "79type",
+    "79type",
+    "79type_1402",
+    "79type_3306"
+   ],
+   "code": "79type",
+   "source": "gf-spine-simulator"
+  },
+  "128": {
+   "bundles": [
+    "M99"
+   ],
+   "code": "M99",
+   "source": "gf-spine-simulator"
+  },
+  "129": {
+   "bundles": [
+    "95type"
+   ],
+   "code": "95type",
+   "source": "gf-spine-simulator"
+  },
+  "13": {
+   "bundles": [
+    "92type"
+   ],
+   "code": "92type",
+   "source": "gf-spine-simulator"
+  },
+  "130": {
+   "bundles": [
+    "97type"
+   ],
+   "code": "97type",
+   "source": "gf-spine-simulator"
+  },
+  "131": {
+   "bundles": [
+    "EVO3"
+   ],
+   "code": "EVO3",
+   "source": "gf-spine-simulator"
+  },
+  "132": {
+   "bundles": [
+    "59type"
+   ],
+   "code": "59type",
+   "source": "gf-spine-simulator"
+  },
+  "133": {
+   "bundles": [
+    "63type"
+   ],
+   "code": "63type",
+   "source": "gf-spine-simulator"
+  },
+  "134": {
+   "bundles": [
+    "AR70"
+   ],
+   "code": "AR70",
+   "source": "gf-spine-simulator"
+  },
+  "135": {
+   "bundles": [
+    "SR3MP"
+   ],
+   "code": "SR3MP",
+   "source": "gf-spine-simulator"
+  },
+  "136": {
+   "bundles": [
+    "PP19"
+   ],
+   "code": "PP19",
+   "source": "gf-spine-simulator"
+  },
+  "137": {
+   "bundles": [
+    "PP1901"
+   ],
+   "code": "PP1901",
+   "source": "gf-spine-simulator"
+  },
+  "138": {
+   "bundles": [
+    "6P62"
+   ],
+   "code": "6P62",
+   "source": "gf-spine-simulator"
+  },
+  "139": {
+   "bundles": [
+    "BrenTen"
+   ],
+   "code": "BrenTen",
+   "source": "gf-spine-simulator"
+  },
+  "14": {
+   "bundles": [
+    "357"
+   ],
+   "code": "357",
+   "source": "gf-spine-simulator"
+  },
+  "140": {
+   "bundles": [
+    "PSM"
+   ],
+   "code": "PSM",
+   "source": "gf-spine-simulator"
+  },
+  "141": {
+   "bundles": [
+    "USPCompact"
+   ],
+   "code": "USPCompact",
+   "source": "gf-spine-simulator"
+  },
+  "142": {
+   "bundles": [
+    "FN57"
+   ],
+   "code": "FN57",
+   "source": "gf-spine-simulator"
+  },
+  "143": {
+   "bundles": [
+    "RO635"
+   ],
+   "code": "RO635",
+   "source": "gf-spine-simulator"
+  },
+  "144": {
+   "bundles": [
+    "MT9"
+   ],
+   "code": "MT9",
+   "source": "gf-spine-simulator"
+  },
+  "145": {
+   "bundles": [
+    "OC44"
+   ],
+   "code": "OC44",
+   "source": "gf-spine-simulator"
+  },
+  "146": {
+   "bundles": [
+    "G28"
+   ],
+   "code": "G28",
+   "source": "gf-spine-simulator"
+  },
+  "147": {
+   "bundles": [
+    "SSG69"
+   ],
+   "code": "SSG69",
+   "source": "gf-spine-simulator"
+  },
+  "148": {
+   "bundles": [
+    "IWS2000"
+   ],
+   "code": "IWS2000",
+   "source": "gf-spine-simulator"
+  },
+  "149": {
+   "bundles": [
+    "AEK999"
+   ],
+   "code": "AEK999",
+   "source": "gf-spine-simulator"
+  },
+  "15": {
+   "bundles": [
+    "Glock17"
+   ],
+   "code": "Glock17",
+   "source": "gf-spine-simulator"
+  },
+  "150": {
+   "bundles": [
+    "Shipka"
+   ],
+   "code": "Shipka",
+   "source": "gf-spine-simulator"
+  },
+  "151": {
+   "bundles": [
+    "M1887"
+   ],
+   "code": "M1887",
+   "source": "gf-spine-simulator"
+  },
+  "152": {
+   "bundles": [
+    "M1897"
+   ],
+   "code": "M1897",
+   "source": "gf-spine-simulator"
+  },
+  "153": {
+   "bundles": [
+    "Ithaca37"
+   ],
+   "code": "Ithaca37",
+   "source": "gf-spine-simulator"
+  },
+  "154": {
+   "bundles": [
+    "M500"
+   ],
+   "code": "M500",
+   "source": "gf-spine-simulator"
+  },
+  "155": {
+   "bundles": [
+    "M590"
+   ],
+   "code": "M590",
+   "source": "gf-spine-simulator"
+  },
+  "156": {
+   "bundles": [
+    "SuperShorty"
+   ],
+   "code": "SuperShorty",
+   "source": "gf-spine-simulator"
+  },
+  "157": {
+   "bundles": [
+    "KSG"
+   ],
+   "code": "KSG",
+   "source": "gf-spine-simulator"
+  },
+  "158": {
+   "bundles": [
+    "KS23"
+   ],
+   "code": "KS23",
+   "source": "gf-spine-simulator"
+  },
+  "159": {
+   "bundles": [
+    "RMB93"
+   ],
+   "code": "RMB93",
+   "source": "gf-spine-simulator"
+  },
+  "16": {
+   "bundles": [
+    "M1928A1"
+   ],
+   "code": "M1928A1",
+   "source": "gf-spine-simulator"
+  },
+  "160": {
+   "bundles": [
+    "SAIGA12"
+   ],
+   "code": "Saiga12",
+   "source": "gf-spine-simulator"
+  },
+  "161": {
+   "bundles": [
+    "97typeS"
+   ],
+   "code": "97typeS",
+   "source": "gf-spine-simulator"
+  },
+  "162": {
+   "bundles": [
+    "SPAS12"
+   ],
+   "code": "SPAS12",
+   "source": "gf-spine-simulator"
+  },
+  "163": {
+   "bundles": [
+    "AA12"
+   ],
+   "code": "AA12",
+   "source": "gf-spine-simulator"
+  },
+  "164": {
+   "bundles": [
+    "FP6"
+   ],
+   "code": "FP6",
+   "source": "gf-spine-simulator"
+  },
+  "165": {
+   "bundles": [
+    "M1014"
+   ],
+   "code": "M1014",
+   "source": "gf-spine-simulator"
+  },
+  "166": {
+   "bundles": [
+    "CZ75"
+   ],
+   "code": "CZ75",
+   "source": "gf-spine-simulator"
+  },
+  "167": {
+   "bundles": [
+    "HK45"
+   ],
+   "code": "HK45",
+   "source": "gf-spine-simulator"
+  },
+  "168": {
+   "bundles": [
+    "Spitfire"
+   ],
+   "code": "Spitfire",
+   "source": "gf-spine-simulator"
+  },
+  "169": {
+   "bundles": [
+    "ColtSCW"
+   ],
+   "code": "ColtSCW",
+   "source": "gf-spine-simulator"
+  },
+  "17": {
+   "bundles": [
+    "M3"
+   ],
+   "code": "M3",
+   "source": "gf-spine-simulator"
+  },
+  "170": {
+   "bundles": [
+    "Ash127"
+   ],
+   "code": "Ash127",
+   "source": "gf-spine-simulator"
+  },
+  "171": {
+   "bundles": [
+    "Ribeyrolles"
+   ],
+   "code": "Ribeyrolles",
+   "source": "gf-spine-simulator"
+  },
+  "172": {
+   "bundles": [
+    "RFB"
+   ],
+   "code": "RFB",
+   "source": "gf-spine-simulator"
+  },
+  "173": {
+   "bundles": [
+    "PKP"
+   ],
+   "code": "PKP",
+   "source": "gf-spine-simulator"
+  },
+  "174": {
+   "bundles": [
+    "81typeR"
+   ],
+   "code": "81typeR",
+   "source": "gf-spine-simulator"
+  },
+  "175": {
+   "bundles": [
+    "ART556"
+   ],
+   "code": "ART556",
+   "source": "gf-spine-simulator"
+  },
+  "176": {
+   "bundles": [
+    "TMP"
+   ],
+   "code": "TMP",
+   "source": "gf-spine-simulator"
+  },
+  "177": {
+   "bundles": [
+    "KLIN"
+   ],
+   "code": "KLIN",
+   "source": "gf-spine-simulator"
+  },
+  "178": {
+   "bundles": [
+    "F1"
+   ],
+   "code": "F1",
+   "source": "gf-spine-simulator"
+  },
+  "179": {
+   "bundles": [
+    "DSR50"
+   ],
+   "code": "DSR50",
+   "source": "gf-spine-simulator"
+  },
+  "18": {
+   "bundles": [
+    "MAC10"
+   ],
+   "code": "MAC10",
+   "source": "gf-spine-simulator"
+  },
+  "180": {
+   "bundles": [
+    "PZB39"
+   ],
+   "code": "PzB39",
+   "source": "gf-spine-simulator"
+  },
+  "181": {
+   "bundles": [
+    "T91"
+   ],
+   "code": "T91",
+   "source": "gf-spine-simulator"
+  },
+  "182": {
+   "bundles": [
+    "wz29",
+    "wz29",
+    "wz29_4907"
+   ],
+   "code": "wz29",
+   "source": "gf-spine-simulator"
+  },
+  "183": {
+   "bundles": [
+    "Contender"
+   ],
+   "code": "Contender",
+   "source": "gf-spine-simulator"
+  },
+  "184": {
+   "bundles": [
+    "T5000"
+   ],
+   "code": "T5000",
+   "source": "gf-spine-simulator"
+  },
+  "185": {
+   "bundles": [
+    "Ameli"
+   ],
+   "code": "Ameli",
+   "source": "gf-spine-simulator"
+  },
+  "186": {
+   "bundles": [
+    "P226"
+   ],
+   "code": "P226",
+   "source": "gf-spine-simulator"
+  },
+  "187": {
+   "bundles": [
+    "Ak5"
+   ],
+   "code": "Ak5",
+   "source": "gf-spine-simulator"
+  },
+  "188": {
+   "bundles": [
+    "SAT8"
+   ],
+   "code": "SAT8",
+   "source": "gf-spine-simulator"
+  },
+  "189": {
+   "bundles": [
+    "USAS12",
+    "usas12",
+    "usas12_2704"
+   ],
+   "code": "USAS12",
+   "source": "gf-spine-simulator"
+  },
+  "19": {
+   "bundles": [
+    "FMG9"
+   ],
+   "code": "FMG9",
+   "source": "gf-spine-simulator"
+  },
+  "190": {
+   "bundles": [
+    "NS2000"
+   ],
+   "code": "NS2000",
+   "source": "gf-spine-simulator"
+  },
+  "191": {
+   "bundles": [
+    "M12"
+   ],
+   "code": "M12",
+   "source": "gf-spine-simulator"
+  },
+  "192": {
+   "bundles": [
+    "JS-127"
+   ],
+   "code": "JS-127",
+   "source": "gf-spine-simulator"
+  },
+  "193": {
+   "bundles": [
+    "T65"
+   ],
+   "code": "T65",
+   "source": "gf-spine-simulator"
+  },
+  "194": {
+   "bundles": [
+    "K2"
+   ],
+   "code": "K2",
+   "source": "gf-spine-simulator"
+  },
+  "195": {
+   "bundles": [
+    "HK23"
+   ],
+   "code": "HK23",
+   "source": "gf-spine-simulator"
+  },
+  "196": {
+   "bundles": [
+    "ZastavaM21"
+   ],
+   "code": "ZastavaM21",
+   "source": "gf-spine-simulator"
+  },
+  "197": {
+   "bundles": [
+    "Carcano1891"
+   ],
+   "code": "Carcano1891",
+   "source": "gf-spine-simulator"
+  },
+  "198": {
+   "bundles": [
+    "Carcano1938"
+   ],
+   "code": "Carcano1938",
+   "source": "gf-spine-simulator"
+  },
+  "199": {
+   "bundles": [
+    "80type"
+   ],
+   "code": "80type",
+   "source": "gf-spine-simulator"
+  },
+  "2": {
+   "bundles": [
+    "M1911"
+   ],
+   "code": "M1911",
+   "source": "gf-spine-simulator"
+  },
+  "20": {
+   "bundles": [
+    "Vector"
+   ],
+   "code": "Vector",
+   "source": "gf-spine-simulator"
+  },
+  "200": {
+   "bundles": [
+    "XM3"
+   ],
+   "code": "xm3",
+   "source": "gf-spine-simulator"
+  },
+  "201": {
+   "bundles": [
+    "GepardM1"
+   ],
+   "code": "GepardM1",
+   "source": "gf-spine-simulator"
+  },
+  "202": {
+   "bundles": [
+    "Thunder50"
+   ],
+   "code": "Thunder50",
+   "source": "gf-spine-simulator"
+  },
+  "203": {
+   "bundles": [
+    "PDW"
+   ],
+   "code": "PDW",
+   "source": "gf-spine-simulator"
+  },
+  "204": {
+   "bundles": [
+    "Ballista"
+   ],
+   "code": "Ballista",
+   "source": "gf-spine-simulator"
+  },
+  "205": {
+   "bundles": [
+    "AN94"
+   ],
+   "code": "AN94",
+   "source": "gf-spine-simulator"
+  },
+  "206": {
+   "bundles": [
+    "AK12"
+   ],
+   "code": "AK12",
+   "source": "gf-spine-simulator"
+  },
+  "207": {
+   "bundles": [
+    "CZ2000"
+   ],
+   "code": "CZ2000",
+   "source": "gf-spine-simulator"
+  },
+  "208": {
+   "bundles": [
+    "HK21"
+   ],
+   "code": "HK21",
+   "source": "gf-spine-simulator"
+  },
+  "209": {
+   "bundles": [
+    "OTs39"
+   ],
+   "code": "OTs39",
+   "source": "gf-spine-simulator"
+  },
+  "21": {
+   "bundles": [
+    "PPsh41"
+   ],
+   "code": "PPsh41",
+   "source": "gf-spine-simulator"
+  },
+  "210": {
+   "bundles": [
+    "CZ52"
+   ],
+   "code": "CZ52",
+   "source": "gf-spine-simulator"
+  },
+  "211": {
+   "bundles": [
+    "DTASRS"
+   ],
+   "code": "DTASRS",
+   "source": "gf-spine-simulator"
+  },
+  "212": {
+   "bundles": [
+    "K5",
+    "k5",
+    "k5_2002",
+    "k5_3308"
+   ],
+   "code": "K5",
+   "source": "gf-spine-simulator"
+  },
+  "213": {
+   "bundles": [
+    "CBJMS"
+   ],
+   "code": "CBJMS",
+   "source": "gf-spine-simulator"
+  },
+  "215": {
+   "bundles": [
+    "MDR"
+   ],
+   "code": "MDR",
+   "source": "gf-spine-simulator"
+  },
+  "216": {
+   "bundles": [
+    "XM8"
+   ],
+   "code": "XM8",
+   "source": "gf-spine-simulator"
+  },
+  "217": {
+   "bundles": [
+    "HEZISM1"
+   ],
+   "code": "HEZISM1",
+   "source": "gf-spine-simulator"
+  },
+  "218": {
+   "bundles": [
+    "T77"
+   ],
+   "code": "T77",
+   "source": "gf-spine-simulator"
+  },
+  "22": {
+   "bundles": [
+    "PPS43"
+   ],
+   "code": "PPS43",
+   "source": "gf-spine-simulator"
+  },
+  "220": {
+   "bundles": [
+    "MP443"
+   ],
+   "code": "MP443",
+   "source": "gf-spine-simulator"
+  },
+  "221": {
+   "bundles": [
+    "GSH18"
+   ],
+   "code": "GSH18",
+   "source": "gf-spine-simulator"
+  },
+  "222": {
+   "bundles": [
+    "TAC50"
+   ],
+   "code": "TAC50",
+   "source": "gf-spine-simulator"
+  },
+  "223": {
+   "bundles": [
+    "CETME556"
+   ],
+   "code": "CETME556",
+   "source": "gf-spine-simulator"
+  },
+  "224": {
+   "bundles": [
+    "PM06"
+   ],
+   "code": "PM06",
+   "source": "gf-spine-simulator"
+  },
+  "225": {
+   "bundles": [
+    "Cx4Storm"
+   ],
+   "code": "Cx4Storm",
+   "source": "gf-spine-simulator"
+  },
+  "227": {
+   "bundles": [
+    "A91"
+   ],
+   "code": "A91",
+   "source": "gf-spine-simulator"
+  },
+  "228": {
+   "bundles": [
+    "Type100"
+   ],
+   "code": "Type100",
+   "source": "gf-spine-simulator"
+  },
+  "23": {
+   "bundles": [
+    "PP90"
+   ],
+   "code": "PP90",
+   "source": "gf-spine-simulator"
+  },
+  "232": {
+   "bundles": [
+    "MP448"
+   ],
+   "code": "MP448",
+   "source": "gf-spine-simulator"
+  },
+  "233": {
+   "bundles": [
+    "Px4Storm"
+   ],
+   "code": "Px4Storm",
+   "source": "gf-spine-simulator"
+  },
+  "234": {
+   "bundles": [
+    "JS9mm"
+   ],
+   "code": "JS9mm",
+   "source": "gf-spine-simulator"
+  },
+  "235": {
+   "bundles": [
+    "fnspr"
+   ],
+   "code": "FNSPR",
+   "source": "gf-spine-simulator"
+  },
+  "236": {
+   "bundles": [
+    "K11"
+   ],
+   "code": "K11",
+   "source": "gf-spine-simulator"
+  },
+  "237": {
+   "bundles": [
+    "SAR21"
+   ],
+   "code": "SAR21",
+   "source": "gf-spine-simulator"
+  },
+  "239": {
+   "bundles": [
+    "Type03"
+   ],
+   "code": "Type03",
+   "source": "gf-spine-simulator"
+  },
+  "24": {
+   "bundles": [
+    "PP2000"
+   ],
+   "code": "PP2000",
+   "source": "gf-spine-simulator"
+  },
+  "243": {
+   "bundles": [
+    "Type64-AR"
+   ],
+   "code": "Type64-AR",
+   "source": "gf-spine-simulator"
+  },
+  "244": {
+   "bundles": [
+    "tec9"
+   ],
+   "code": "TEC9",
+   "source": "gf-spine-simulator"
+  },
+  "245": {
+   "bundles": [
+    "P90"
+   ],
+   "code": "P90",
+   "source": "gf-spine-simulator"
+  },
+  "248": {
+   "bundles": [
+    "Jericho"
+   ],
+   "code": "Jericho",
+   "source": "gf-spine-simulator"
+  },
+  "249": {
+   "bundles": [
+    "type62"
+   ],
+   "code": "Type62",
+   "source": "this repo"
+  },
+  "25": {
+   "bundles": [
+    "MP40"
+   ],
+   "code": "MP40",
+   "source": "gf-spine-simulator"
+  },
+  "26": {
+   "bundles": [
+    "MP5"
+   ],
+   "code": "MP5",
+   "source": "gf-spine-simulator"
+  },
+  "27": {
+   "bundles": [
+    "VZ61"
+   ],
+   "code": "VZ61",
+   "source": "gf-spine-simulator"
+  },
+  "28": {
+   "bundles": [
+    "MP7"
+   ],
+   "code": "MP7",
+   "source": "gf-spine-simulator"
+  },
+  "289": {
+   "bundles": [
+    "r5rgp_5302"
+   ],
+   "code": "R5RGP",
+   "source": "this repo"
+  },
+  "29": {
+   "bundles": [
+    "StenMK2"
+   ],
+   "code": "StenMK2",
+   "source": "gf-spine-simulator"
+  },
+  "3": {
+   "bundles": [
+    "M9"
+   ],
+   "code": "M9",
+   "source": "gf-spine-simulator"
+  },
+  "31": {
+   "bundles": [
+    "MAB38"
+   ],
+   "code": "MAB38",
+   "source": "gf-spine-simulator"
+  },
+  "316": {
+   "bundles": [
+    "generalliu_5101"
+   ],
+   "code": "GeneralLiu",
+   "source": "this repo"
+  },
+  "318": {
+   "bundles": [
+    "vhs_5203"
+   ],
+   "code": "VHS",
+   "source": "this repo"
+  },
+  "32": {
+   "bundles": [
+    "MicroUZI"
+   ],
+   "code": "MicroUZI",
+   "source": "gf-spine-simulator"
+  },
+  "33": {
+   "bundles": [
+    "m45"
+   ],
+   "code": "m45",
+   "source": "gf-spine-simulator"
+  },
+  "34": {
+   "bundles": [
+    "M1"
+   ],
+   "code": "M1",
+   "source": "gf-spine-simulator"
+  },
+  "35": {
+   "bundles": [
+    "M1A1"
+   ],
+   "code": "M1A1",
+   "source": "gf-spine-simulator"
+  },
+  "36": {
+   "bundles": [
+    "M1903"
+   ],
+   "code": "M1903",
+   "source": "gf-spine-simulator"
+  },
+  "37": {
+   "bundles": [
+    "M14"
+   ],
+   "code": "M14",
+   "source": "gf-spine-simulator"
+  },
+  "38": {
+   "bundles": [
+    "M21"
+   ],
+   "code": "M21",
+   "source": "gf-spine-simulator"
+  },
+  "39": {
+   "bundles": [
+    "M1891"
+   ],
+   "code": "M1891",
+   "source": "gf-spine-simulator"
+  },
+  "4": {
+   "bundles": [
+    "Python"
+   ],
+   "code": "Python",
+   "source": "gf-spine-simulator"
+  },
+  "40": {
+   "bundles": [
+    "SVT38"
+   ],
+   "code": "SVT38",
+   "source": "gf-spine-simulator"
+  },
+  "41": {
+   "bundles": [
+    "SKS"
+   ],
+   "code": "SKS",
+   "source": "gf-spine-simulator"
+  },
+  "42": {
+   "bundles": [
+    "PTRD"
+   ],
+   "code": "PTRD",
+   "source": "gf-spine-simulator"
+  },
+  "43": {
+   "bundles": [
+    "SVD"
+   ],
+   "code": "SVD",
+   "source": "gf-spine-simulator"
+  },
+  "44": {
+   "bundles": [
+    "SV98"
+   ],
+   "code": "SV98",
+   "source": "gf-spine-simulator"
+  },
+  "46": {
+   "bundles": [
+    "98K"
+   ],
+   "code": "98K",
+   "source": "gf-spine-simulator"
+  },
+  "47": {
+   "bundles": [
+    "G43"
+   ],
+   "code": "G43",
+   "source": "gf-spine-simulator"
+  },
+  "48": {
+   "bundles": [
+    "WA2000"
+   ],
+   "code": "WA2000",
+   "source": "gf-spine-simulator"
+  },
+  "49": {
+   "bundles": [
+    "56typeR"
+   ],
+   "code": "56typeR",
+   "source": "gf-spine-simulator"
+  },
+  "5": {
+   "bundles": [
+    "M1895"
+   ],
+   "code": "M1895",
+   "source": "gf-spine-simulator"
+  },
+  "50": {
+   "bundles": [
+    "MLEMK1"
+   ],
+   "code": "MLEMK1",
+   "source": "gf-spine-simulator"
+  },
+  "51": {
+   "bundles": [
+    "FN49"
+   ],
+   "code": "FN49",
+   "source": "gf-spine-simulator"
+  },
+  "52": {
+   "bundles": [
+    "BM59"
+   ],
+   "code": "BM59",
+   "source": "gf-spine-simulator"
+  },
+  "53": {
+   "bundles": [
+    "NTW20"
+   ],
+   "code": "NTW20",
+   "source": "gf-spine-simulator"
+  },
+  "54": {
+   "bundles": [
+    "M16A1"
+   ],
+   "code": "M16A1",
+   "source": "gf-spine-simulator"
+  },
+  "55": {
+   "bundles": [
+    "M4A1"
+   ],
+   "code": "M4A1",
+   "source": "gf-spine-simulator"
+  },
+  "56": {
+   "bundles": [
+    "M4 SOPMOD II"
+   ],
+   "code": "M4 SOPMOD II",
+   "source": "gf-spine-simulator"
+  },
+  "57": {
+   "bundles": [
+    "AR15"
+   ],
+   "code": "AR15",
+   "source": "gf-spine-simulator"
+  },
+  "58": {
+   "bundles": [
+    "AK47"
+   ],
+   "code": "AK47",
+   "source": "gf-spine-simulator"
+  },
+  "59": {
+   "bundles": [
+    "AK74U"
+   ],
+   "code": "AK74U",
+   "source": "gf-spine-simulator"
+  },
+  "6": {
+   "bundles": [
+    "TT33"
+   ],
+   "code": "TT33",
+   "source": "gf-spine-simulator"
+  },
+  "60": {
+   "bundles": [
+    "ASVAL"
+   ],
+   "code": "ASVAL",
+   "source": "gf-spine-simulator"
+  },
+  "61": {
+   "bundles": [
+    "STG44"
+   ],
+   "code": "STG44",
+   "source": "gf-spine-simulator"
+  },
+  "62": {
+   "bundles": [
+    "G41"
+   ],
+   "code": "G41",
+   "source": "gf-spine-simulator"
+  },
+  "63": {
+   "bundles": [
+    "G3"
+   ],
+   "code": "G3",
+   "source": "gf-spine-simulator"
+  },
+  "64": {
+   "bundles": [
+    "G36"
+   ],
+   "code": "G36",
+   "source": "gf-spine-simulator"
+  },
+  "65": {
+   "bundles": [
+    "HK416"
+   ],
+   "code": "HK416",
+   "source": "gf-spine-simulator"
+  },
+  "66": {
+   "bundles": [
+    "56-1type"
+   ],
+   "code": "56-1type",
+   "source": "gf-spine-simulator"
+  },
+  "68": {
+   "bundles": [
+    "L85A1"
+   ],
+   "code": "L85A1",
+   "source": "gf-spine-simulator"
+  },
+  "69": {
+   "bundles": [
+    "FAMAS"
+   ],
+   "code": "FAMAS",
+   "source": "gf-spine-simulator"
+  },
+  "7": {
+   "bundles": [
+    "APS"
+   ],
+   "code": "APS",
+   "source": "gf-spine-simulator"
+  },
+  "70": {
+   "bundles": [
+    "FNFNC"
+   ],
+   "code": "FNFNC",
+   "source": "gf-spine-simulator"
+  },
+  "71": {
+   "bundles": [
+    "AR"
+   ],
+   "code": "AR",
+   "source": "gf-spine-simulator"
+  },
+  "72": {
+   "bundles": [
+    "TAR21"
+   ],
+   "code": "TAR21",
+   "source": "gf-spine-simulator"
+  },
+  "73": {
+   "bundles": [
+    "AUG"
+   ],
+   "code": "AUG",
+   "source": "gf-spine-simulator"
+  },
+  "74": {
+   "bundles": [
+    "SIG510"
+   ],
+   "code": "SIG510",
+   "source": "gf-spine-simulator"
+  },
+  "75": {
+   "bundles": [
+    "M1918"
+   ],
+   "code": "M1918",
+   "source": "gf-spine-simulator"
+  },
+  "77": {
+   "bundles": [
+    "M2HB"
+   ],
+   "code": "M2HB",
+   "source": "gf-spine-simulator"
+  },
+  "78": {
+   "bundles": [
+    "M60"
+   ],
+   "code": "M60",
+   "source": "gf-spine-simulator"
+  },
+  "79": {
+   "bundles": [
+    "M249SAW"
+   ],
+   "code": "M249SAW",
+   "source": "gf-spine-simulator"
+  },
+  "8": {
+   "bundles": [
+    "PM"
+   ],
+   "code": "PM",
+   "source": "gf-spine-simulator"
+  },
+  "80": {
+   "bundles": [
+    "M1919A4"
+   ],
+   "code": "M1919A4",
+   "source": "gf-spine-simulator"
+  },
+  "81": {
+   "bundles": [
+    "LWMMG"
+   ],
+   "code": "LWMMG",
+   "source": "gf-spine-simulator"
+  },
+  "82": {
+   "bundles": [
+    "DP28"
+   ],
+   "code": "DP28",
+   "source": "gf-spine-simulator"
+  },
+  "84": {
+   "bundles": [
+    "RPD"
+   ],
+   "code": "RPD",
+   "source": "gf-spine-simulator"
+  },
+  "85": {
+   "bundles": [
+    "PK"
+   ],
+   "code": "PK",
+   "source": "gf-spine-simulator"
+  },
+  "86": {
+   "bundles": [
+    "MG42"
+   ],
+   "code": "MG42",
+   "source": "gf-spine-simulator"
+  },
+  "87": {
+   "bundles": [
+    "MG34"
+   ],
+   "code": "MG34",
+   "source": "gf-spine-simulator"
+  },
+  "88": {
+   "bundles": [
+    "MG3"
+   ],
+   "code": "MG3",
+   "source": "gf-spine-simulator"
+  },
+  "89": {
+   "bundles": [
+    "BrenMK"
+   ],
+   "code": "BrenMK",
+   "source": "gf-spine-simulator"
+  },
+  "9": {
+   "bundles": [
+    "P38"
+   ],
+   "code": "P38",
+   "source": "gf-spine-simulator"
+  },
+  "90": {
+   "bundles": [
+    "FNP9"
+   ],
+   "code": "FNP9",
+   "source": "gf-spine-simulator"
+  },
+  "91": {
+   "bundles": [
+    "MP446"
+   ],
+   "code": "MP446",
+   "source": "gf-spine-simulator"
+  },
+  "92": {
+   "bundles": [
+    "SpectreM4",
+    "spectrem4"
+   ],
+   "code": "SpectreM4",
+   "source": "gf-spine-simulator"
+  },
+  "93": {
+   "bundles": [
+    "IDW"
+   ],
+   "code": "IDW",
+   "source": "gf-spine-simulator"
+  },
+  "94": {
+   "bundles": [
+    "64type"
+   ],
+   "code": "64type",
+   "source": "gf-spine-simulator"
+  },
+  "95": {
+   "bundles": [
+    "88type"
+   ],
+   "code": "88type",
+   "source": "gf-spine-simulator"
+  },
+  "96": {
+   "bundles": [
+    "Grizzly"
+   ],
+   "code": "Grizzly",
+   "source": "gf-spine-simulator"
+  },
+  "97": {
+   "bundles": [
+    "M950A"
+   ],
+   "code": "M950A",
+   "source": "gf-spine-simulator"
+  },
+  "98": {
+   "bundles": [
+    "SPP1"
+   ],
+   "code": "SPP1",
+   "source": "gf-spine-simulator"
+  },
+  "99": {
+   "bundles": [
+    "Mk23"
+   ],
+   "code": "Mk23",
+   "source": "gf-spine-simulator"
+  }
+ },
+ "missing": [
+  214,
+  226,
+  229,
+  230,
+  231,
+  238,
+  240,
+  241,
+  242,
+  247,
+  250,
+  251,
+  252,
+  253,
+  254,
+  255,
+  256,
+  257,
+  258,
+  259,
+  260,
+  261,
+  262,
+  263,
+  264,
+  265,
+  266,
+  267,
+  268,
+  269,
+  270,
+  271,
+  272,
+  273,
+  274,
+  275,
+  276,
+  277,
+  278,
+  279,
+  280,
+  281,
+  282,
+  283,
+  284,
+  285,
+  286,
+  287,
+  288,
+  290,
+  291,
+  292,
+  293,
+  294,
+  295,
+  296,
+  297,
+  298,
+  299,
+  300,
+  301,
+  302,
+  303,
+  304,
+  305,
+  306,
+  307,
+  308,
+  309,
+  310,
+  311,
+  312,
+  313,
+  314,
+  315,
+  317,
+  319,
+  320,
+  321,
+  322,
+  323,
+  324,
+  325,
+  326,
+  327,
+  328,
+  329,
+  330,
+  1003,
+  1004,
+  1005,
+  1006,
+  1007,
+  1008,
+  1017,
+  1018,
+  1019,
+  1020,
+  1021,
+  1022,
+  1023,
+  1024,
+  1025,
+  1026,
+  1027,
+  1028
+ ]
+}
