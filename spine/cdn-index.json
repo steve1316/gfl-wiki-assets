@@ -1,0 +1,19 @@
+{
+ "dolls": {
+  "163": {
+   "bundle": "character_aa12",
+   "code": "AA12",
+   "files": [
+    "AA12.atlas",
+    "AA12.png",
+    "AA12.skel",
+    "RAA12.skel",
+    "pic_AA12.png",
+    "pic_AA12_D.png",
+    "pic_AA12_N.png"
+   ]
+  }
+ },
+ "failed": [],
+ "unresolved": []
+}
