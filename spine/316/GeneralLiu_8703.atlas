@@ -1,0 +1,342 @@
+
+GeneralLiu_8703.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bbangs
+  rotate: true
+  xy: 93, 3
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1
+Bskirt
+  rotate: false
+  xy: 392, 76
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+Larm1
+  rotate: false
+  xy: 777, 69
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: true
+  xy: 548, 64
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+Lbangs1
+  rotate: true
+  xy: 639, 103
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+Lcoat1
+  rotate: false
+  xy: 614, 67
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Lcoat2
+  rotate: true
+  xy: 520, 85
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+Leye1
+  rotate: true
+  xy: 746, 69
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+Leye3
+  rotate: true
+  xy: 520, 67
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 292, 2
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Lhand2
+  rotate: true
+  xy: 469, 51
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: true
+  xy: 869, 99
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 578, 73
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Lyey4
+  rotate: true
+  xy: 349, 2
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 449, 29
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: false
+  xy: 495, 66
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Rbangs1
+  rotate: true
+  xy: 578, 100
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+Rcoat1
+  rotate: false
+  xy: 797, 91
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+Rcoat2
+  rotate: false
+  xy: 392, 24
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+Reye1
+  rotate: false
+  xy: 667, 71
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Reye3
+  rotate: false
+  xy: 723, 72
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+Reye4
+  rotate: false
+  xy: 696, 73
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 449, 50
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: true
+  xy: 904, 99
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: false
+  xy: 640, 67
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+Rring
+  rotate: false
+  xy: 1016, 119
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+ball
+  rotate: true
+  xy: 178, 88
+  size: 38, 129
+  orig: 38, 129
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 455, 89
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 750, 89
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 2, 2
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 309, 88
+  size: 38, 81
+  orig: 38, 81
+  offset: 0, 0
+  index: -1
+eyeL4
+  rotate: true
+  xy: 319, 2
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+eyeR4
+  rotate: true
+  xy: 262, 2
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 262, 21
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+fan1
+  rotate: false
+  xy: 939, 102
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+fan2
+  rotate: false
+  xy: 834, 96
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+fan3
+  rotate: false
+  xy: 977, 103
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2, 91
+  size: 174, 35
+  orig: 174, 35
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 469, 69
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 700, 102
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+hairpin
+  rotate: false
+  xy: 330, 19
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 165, 9
+  size: 95, 77
+  orig: 95, 77
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 449, 24
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 378, 10
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+mouth4
+  rotate: false
+  xy: 165, 3
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 803, 65
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 392, 2
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+tape
+  rotate: false
+  xy: 455, 79
+  size: 38, 8
+  orig: 38, 8
+  offset: 0, 0
+  index: -1

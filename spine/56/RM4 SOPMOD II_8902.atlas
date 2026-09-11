@@ -1,0 +1,307 @@
+
+RM4 SOPMOD II_8902.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lleg1
+  rotate: false
+  xy: 424, 54
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Lleg2A
+  rotate: false
+  xy: 351, 56
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+Lleg2B
+  rotate: true
+  xy: 382, 59
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+Rhuxi1
+  rotate: true
+  xy: 472, 30
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Rhuxi2
+  rotate: true
+  xy: 489, 40
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: true
+  xy: 163, 34
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Rleg2A
+  rotate: false
+  xy: 130, 19
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+Rleg2B
+  rotate: false
+  xy: 100, 18
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+armL1
+  rotate: false
+  xy: 263, 33
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+armL2
+  rotate: true
+  xy: 239, 5
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+armL3
+  rotate: false
+  xy: 287, 38
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+armL3r
+  rotate: true
+  xy: 449, 30
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+armR1
+  rotate: false
+  xy: 262, 6
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+armR2
+  rotate: false
+  xy: 289, 15
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+armR3
+  rotate: false
+  xy: 424, 32
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 163, 63
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+eyeL1
+  rotate: false
+  xy: 160, 2
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+eyeL2
+  rotate: false
+  xy: 486, 62
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+eyeL3
+  rotate: true
+  xy: 382, 42
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+eyeL4
+  rotate: true
+  xy: 130, 2
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+eyeL5
+  rotate: true
+  xy: 347, 39
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+eyeR1
+  rotate: true
+  xy: 182, 4
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+eyeR2
+  rotate: false
+  xy: 453, 59
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+eyeR3
+  rotate: false
+  xy: 215, 2
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+eyeR4
+  rotate: true
+  xy: 317, 40
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+eyeR5
+  rotate: false
+  xy: 200, 34
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 93, 59
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+hairB
+  rotate: false
+  xy: 2, 46
+  size: 89, 80
+  orig: 89, 80
+  offset: 0, 0
+  index: -1
+hairFL
+  rotate: true
+  xy: 382, 90
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+hairFM
+  rotate: true
+  xy: 301, 59
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+hairFR1
+  rotate: true
+  xy: 228, 83
+  size: 43, 71
+  orig: 43, 71
+  offset: 0, 0
+  index: -1
+hairML
+  rotate: true
+  xy: 301, 97
+  size: 29, 79
+  orig: 29, 79
+  offset: 0, 0
+  index: -1
+hairMR
+  rotate: true
+  xy: 449, 95
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+hairSL
+  rotate: false
+  xy: 77, 3
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+hairSR
+  rotate: true
+  xy: 2, 4
+  size: 40, 73
+  orig: 40, 73
+  offset: 0, 0
+  index: -1
+hairT
+  rotate: false
+  xy: 228, 62
+  size: 56, 19
+  orig: 56, 19
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 410, 50
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 100, 4
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: true
+  xy: 507, 50
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+mouth4
+  rotate: false
+  xy: 286, 75
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+mouth5
+  rotate: true
+  xy: 118, 4
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+weiqun
+  rotate: false
+  xy: 227, 35
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 453, 50
+  size: 29, 7
+  orig: 29, 7
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,237 @@
+
+AK12_8605.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bbangs
+  rotate: false
+  xy: 340, 54
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+Larm1
+  rotate: false
+  xy: 2, 2
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: true
+  xy: 153, 2
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+Leye1
+  rotate: false
+  xy: 190, 21
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Leye2
+  rotate: false
+  xy: 493, 6
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+Lhand1
+  rotate: false
+  xy: 180, 2
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+Lhand2
+  rotate: false
+  xy: 494, 107
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: true
+  xy: 404, 31
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 199, 53
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 236, 60
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: true
+  xy: 235, 29
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Reye1
+  rotate: true
+  xy: 474, 32
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Reye2
+  rotate: true
+  xy: 368, 29
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 340, 33
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: true
+  xy: 439, 31
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 153, 22
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 154, 50
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 2, 23
+  size: 49, 99
+  orig: 49, 99
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 154, 82
+  size: 44, 102
+  orig: 44, 102
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 103, 19
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+eyeL3
+  rotate: true
+  xy: 122, 2
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+eyeL4
+  rotate: true
+  xy: 92, 2
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+eyeR3
+  rotate: false
+  xy: 211, 22
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+eyeR4
+  rotate: false
+  xy: 474, 2
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 404, 60
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 32, 3
+  size: 58, 18
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2, 74
+  size: 150, 52
+  orig: 150, 52
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 258, 50
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 494, 76
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 505, 96
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+mouth4
+  rotate: true
+  xy: 494, 64
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 472, 64
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+tape
+  rotate: false
+  xy: 494, 84
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
