@@ -1,0 +1,307 @@
+
+Unica6.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: false
+  xy: 442, 33
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: true
+  xy: 292, 22
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+Leye1
+  rotate: true
+  xy: 250, 42
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+Leye2
+  rotate: true
+  xy: 467, 35
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+Leye3
+  rotate: false
+  xy: 275, 2
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Leye4
+  rotate: true
+  xy: 280, 44
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+Lhand1
+  rotate: false
+  xy: 249, 2
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+Lhand2
+  rotate: false
+  xy: 313, 9
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Lhand3
+  rotate: true
+  xy: 217, 30
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: true
+  xy: 370, 30
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 407, 33
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 461, 7
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: false
+  xy: 152, 2
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+Reye1
+  rotate: false
+  xy: 407, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Reye2
+  rotate: false
+  xy: 183, 2
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+Reye3
+  rotate: false
+  xy: 438, 2
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+Reye4
+  rotate: false
+  xy: 81, 2
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 292, 2
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Rhand2
+  rotate: false
+  xy: 487, 11
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: false
+  xy: 217, 44
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 214, 2
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+badge
+  rotate: true
+  xy: 232, 30
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+bag1
+  rotate: true
+  xy: 26, 4
+  size: 7, 27
+  orig: 7, 27
+  offset: 0, 0
+  index: -1
+bag2
+  rotate: false
+  xy: 447, 87
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+bag3
+  rotate: false
+  xy: 383, 83
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+bag4
+  rotate: true
+  xy: 179, 36
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 326, 36
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 88, 31
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: true
+  xy: 2, 13
+  size: 29, 77
+  orig: 29, 77
+  offset: 0, 0
+  index: -1
+bangs4
+  rotate: false
+  xy: 145, 27
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 326, 68
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 108, 2
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+cloak1
+  rotate: false
+  xy: 2, 2
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+cloak2
+  rotate: false
+  xy: 88, 76
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 258, 61
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 447, 54
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 183, 80
+  size: 73, 46
+  orig: 73, 46
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 44
+  size: 84, 82
+  orig: 84, 82
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 108, 27
+  size: 10, 2
+  orig: 10, 2
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 487, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 461, 2
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 383, 61
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+tape1
+  rotate: true
+  xy: 500, 62
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1

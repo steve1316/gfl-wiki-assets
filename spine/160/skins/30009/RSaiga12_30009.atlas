@@ -1,0 +1,244 @@
+
+RSaiga12_30009.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leye3
+  rotate: false
+  xy: 495, 100
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Leye4
+  rotate: true
+  xy: 128, 7
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+Reye3
+  rotate: true
+  xy: 2, 2
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+Reye4
+  rotate: false
+  xy: 342, 50
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 409, 75
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+esL
+  rotate: false
+  xy: 495, 85
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+esR
+  rotate: false
+  xy: 392, 67
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+eyeL1
+  rotate: true
+  xy: 64, 3
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+eyeL2
+  rotate: true
+  xy: 33, 2
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+eyeR1
+  rotate: false
+  xy: 312, 51
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+eyeR2
+  rotate: true
+  xy: 196, 2
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 135, 60
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+fas
+  rotate: true
+  xy: 135, 25
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+handL0
+  rotate: false
+  xy: 270, 12
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+handL1
+  rotate: false
+  xy: 158, 6
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+handL2
+  rotate: true
+  xy: 228, 2
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+handL3
+  rotate: false
+  xy: 249, 4
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+handR1
+  rotate: false
+  xy: 266, 33
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+handR2
+  rotate: false
+  xy: 290, 34
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+handR3
+  rotate: false
+  xy: 367, 58
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 25
+  size: 101, 131
+  orig: 101, 131
+  offset: 0, 0
+  index: -1
+legL1
+  rotate: true
+  xy: 233, 31
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+legL2
+  rotate: true
+  xy: 242, 58
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+legR1
+  rotate: true
+  xy: 279, 54
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+legR2
+  rotate: true
+  xy: 196, 31
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+lex1
+  rotate: false
+  xy: 468, 80
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+lex2
+  rotate: true
+  xy: 348, 82
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+lex3
+  rotate: true
+  xy: 283, 81
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+lex4
+  rotate: true
+  xy: 203, 86
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+lexL
+  rotate: true
+  xy: 92, 11
+  size: 12, 34
+  orig: 12, 34
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 185, 3
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 185, 10
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: true
+  xy: 507, 88
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+sk
+  rotate: false
+  xy: 203, 60
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1

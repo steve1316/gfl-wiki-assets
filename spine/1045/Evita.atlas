@@ -1,0 +1,258 @@
+
+Evita.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: false
+  xy: 486, 84
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 201, 43
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+Leye1
+  rotate: true
+  xy: 486, 107
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+Lhand1
+  rotate: false
+  xy: 228, 40
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Lhand2
+  rotate: false
+  xy: 382, 74
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+Lhand3
+  rotate: true
+  xy: 324, 69
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: true
+  xy: 449, 96
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 107, 32
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: true
+  xy: 178, 7
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: false
+  xy: 252, 46
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+Reye1
+  rotate: false
+  xy: 122, 5
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+Rhand1
+  rotate: false
+  xy: 345, 66
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+Rhand2
+  rotate: false
+  xy: 365, 70
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+Rhand3
+  rotate: false
+  xy: 292, 59
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: true
+  xy: 66, 9
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 142, 32
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+bag
+  rotate: true
+  xy: 408, 94
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 175, 67
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 324, 87
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 284, 79
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 240, 74
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+eyeL3
+  rotate: false
+  xy: 275, 46
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+eyeL4
+  rotate: true
+  xy: 2, 2
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+eyeL5
+  rotate: true
+  xy: 32, 2
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+eyeR3
+  rotate: false
+  xy: 177, 36
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+eyeR4
+  rotate: false
+  xy: 103, 2
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+eyeR5
+  rotate: false
+  xy: 151, 3
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 107, 61
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+gun
+  rotate: true
+  xy: 365, 90
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+gun2
+  rotate: true
+  xy: 292, 41
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 41
+  size: 103, 85
+  orig: 103, 85
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: true
+  xy: 316, 69
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 240, 70
+  size: 10, 2
+  orig: 10, 2
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 178, 2
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+ring
+  rotate: true
+  xy: 396, 74
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 19
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1

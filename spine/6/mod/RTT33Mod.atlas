@@ -1,0 +1,272 @@
+
+RTT33Mod.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: false
+  xy: 430, 67
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 233, 2
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Leye1
+  rotate: true
+  xy: 269, 29
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+Leye2
+  rotate: true
+  xy: 345, 8
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 502, 114
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+Lhand1
+  rotate: false
+  xy: 275, 2
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Lhand3
+  rotate: false
+  xy: 257, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: false
+  xy: 239, 44
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 299, 28
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: true
+  xy: 299, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: false
+  xy: 406, 64
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Rarm3
+  rotate: true
+  xy: 322, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Rarmitem
+  rotate: false
+  xy: 299, 55
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+Reye1
+  rotate: false
+  xy: 360, 57
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Reye2
+  rotate: false
+  xy: 178, 18
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 178, 51
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+Rhand1
+  rotate: false
+  xy: 207, 2
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Rhand3
+  rotate: true
+  xy: 239, 23
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: false
+  xy: 269, 49
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: false
+  xy: 332, 52
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 125, 3
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+eyeL3
+  rotate: false
+  xy: 390, 30
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+eyeL5
+  rotate: false
+  xy: 389, 58
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+eyeR3
+  rotate: true
+  xy: 332, 28
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+eyeR5
+  rotate: false
+  xy: 363, 28
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 125, 60
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 3
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1
+lex1
+  rotate: true
+  xy: 193, 80
+  size: 46, 70
+  orig: 46, 70
+  offset: 0, 0
+  index: -1
+lex2
+  rotate: true
+  xy: 450, 93
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+lex3
+  rotate: true
+  xy: 265, 85
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+lexT
+  rotate: true
+  xy: 193, 51
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 502, 105
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 178, 6
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 345, 3
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+ribbonD
+  rotate: true
+  xy: 207, 23
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+ribbonL
+  rotate: true
+  xy: 394, 91
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+ribbonR
+  rotate: true
+  xy: 337, 87
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+tie
+  rotate: false
+  xy: 261, 26
+  size: 6, 16
+  orig: 6, 16
+  offset: 0, 0
+  index: -1

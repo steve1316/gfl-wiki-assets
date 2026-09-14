@@ -1,0 +1,272 @@
+
+Mizukinn.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: false
+  xy: 56, 5
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 477, 83
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+Lbangs1
+  rotate: true
+  xy: 379, 66
+  size: 17, 58
+  orig: 17, 58
+  offset: 0, 0
+  index: -1
+Leye1
+  rotate: false
+  xy: 132, 2
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 484, 47
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: true
+  xy: 406, 38
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: false
+  xy: 143, 40
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+RPG1
+  rotate: false
+  xy: 179, 110
+  size: 147, 16
+  orig: 147, 16
+  offset: 0, 0
+  index: -1
+RPG2
+  rotate: false
+  xy: 2, 77
+  size: 175, 49
+  orig: 175, 49
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 459, 8
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: true
+  xy: 33, 2
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Rbangs1
+  rotate: true
+  xy: 443, 110
+  size: 16, 61
+  orig: 16, 61
+  offset: 0, 0
+  index: -1
+Reye1
+  rotate: false
+  xy: 404, 11
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 440, 46
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+Rhand2
+  rotate: true
+  xy: 438, 9
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: true
+  xy: 443, 82
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 369, 38
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 179, 41
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 328, 69
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 498, 89
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+bullet2
+  rotate: false
+  xy: 143, 30
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+clip
+  rotate: true
+  xy: 439, 66
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+eyeL3
+  rotate: true
+  xy: 484, 66
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+eyeL4
+  rotate: false
+  xy: 467, 52
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+eyeL5
+  rotate: false
+  xy: 115, 2
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+eyeR3
+  rotate: true
+  xy: 2, 2
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+eyeR4
+  rotate: true
+  xy: 440, 27
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+eyeR5
+  rotate: false
+  xy: 88, 2
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 261, 42
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 379, 85
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2, 31
+  size: 139, 44
+  orig: 139, 44
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 328, 31
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 26
+  size: 84, 3
+  orig: 84, 3
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: true
+  xy: 506, 117
+  size: 9, 3
+  orig: 9, 3
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 155, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: true
+  xy: 171, 65
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 379, 106
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+support
+  rotate: false
+  xy: 369, 28
+  size: 33, 8
+  orig: 33, 8
+  offset: 0, 0
+  index: -1

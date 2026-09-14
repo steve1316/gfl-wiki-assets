@@ -1,0 +1,300 @@
+
+Rhino_10702.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: false
+  xy: 265, 4
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 238, 28
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Leye1
+  rotate: true
+  xy: 351, 33
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+Lhair
+  rotate: false
+  xy: 287, 152
+  size: 53, 93
+  orig: 53, 93
+  offset: 0, 0
+  index: -1
+Lhand1
+  rotate: true
+  xy: 324, 28
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: true
+  xy: 475, 118
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: false
+  xy: 444, 139
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+Mhair
+  rotate: false
+  xy: 350, 78
+  size: 43, 80
+  orig: 43, 80
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 395, 74
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: true
+  xy: 295, 29
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+Reye1
+  rotate: false
+  xy: 428, 71
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+Rhair
+  rotate: false
+  xy: 342, 160
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+Rhand1
+  rotate: false
+  xy: 241, 5
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Rhand2
+  rotate: false
+  xy: 475, 94
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+Rhand3
+  rotate: false
+  xy: 458, 62
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: false
+  xy: 426, 102
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: false
+  xy: 395, 101
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 475, 147
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dai
+  rotate: true
+  xy: 287, 54
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+eyeL3
+  rotate: true
+  xy: 475, 77
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+eyeL4
+  rotate: false
+  xy: 455, 109
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+eyeL5
+  rotate: false
+  xy: 458, 80
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+eyeR3
+  rotate: true
+  xy: 349, 54
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+eyeR4
+  rotate: false
+  xy: 330, 54
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+eyeR5
+  rotate: true
+  xy: 266, 27
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 401, 178
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+gh
+  rotate: false
+  xy: 89, 6
+  size: 86, 58
+  orig: 86, 58
+  offset: 0, 0
+  index: -1
+gh2
+  rotate: false
+  xy: 2, 66
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+guan
+  rotate: false
+  xy: 401, 139
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+guan2
+  rotate: false
+  xy: 2, 2
+  size: 85, 62
+  orig: 85, 62
+  offset: 0, 0
+  index: -1
+gun
+  rotate: true
+  xy: 247, 54
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 183, 92
+  size: 102, 153
+  orig: 102, 153
+  offset: 0, 0
+  index: -1
+jie
+  rotate: false
+  xy: 475, 60
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+jin
+  rotate: false
+  xy: 351, 16
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 342, 153
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 238, 54
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: true
+  xy: 507, 235
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+piaodaiL
+  rotate: false
+  xy: 287, 84
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+piaodaiM
+  rotate: true
+  xy: 183, 63
+  size: 27, 62
+  orig: 27, 62
+  offset: 0, 0
+  index: -1
+piaodaiR
+  rotate: false
+  xy: 471, 178
+  size: 34, 67
+  orig: 34, 67
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 177, 28
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 177, 6
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1

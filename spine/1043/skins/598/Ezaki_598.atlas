@@ -1,0 +1,223 @@
+
+Ezaki_598.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 297, 73
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: true
+  xy: 448, 107
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+eyeL1
+  rotate: true
+  xy: 250, 48
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+eyeL3
+  rotate: true
+  xy: 177, 2
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+eyeL5
+  rotate: true
+  xy: 337, 68
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: true
+  xy: 143, 16
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+eyeR1
+  rotate: false
+  xy: 479, 96
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+eyeR3
+  rotate: true
+  xy: 449, 84
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+eyeR5 - 副本
+  rotate: true
+  xy: 116, 49
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 9
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2, 76
+  size: 141, 50
+  orig: 141, 50
+  offset: 0, 0
+  index: -1
+handL0
+  rotate: true
+  xy: 231, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+handL1
+  rotate: false
+  xy: 204, 2
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+handL2
+  rotate: false
+  xy: 252, 2
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+handL3
+  rotate: true
+  xy: 479, 76
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+handR1
+  rotate: false
+  xy: 366, 65
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+handR2
+  rotate: false
+  xy: 280, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+handR3
+  rotate: false
+  xy: 391, 64
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 145, 47
+  size: 103, 79
+  orig: 103, 79
+  offset: 0, 0
+  index: -1
+legL1
+  rotate: false
+  xy: 116, 14
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+legL2
+  rotate: true
+  xy: 177, 20
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+legR1
+  rotate: true
+  xy: 251, 21
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+legR2
+  rotate: true
+  xy: 214, 20
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+lex1
+  rotate: false
+  xy: 337, 85
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+lex2
+  rotate: false
+  xy: 70, 16
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+lex3
+  rotate: false
+  xy: 250, 67
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 2, 5
+  size: 4, 2
+  orig: 4, 2
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 280, 58
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 70, 11
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+muzz
+  rotate: false
+  xy: 384, 87
+  size: 63, 17
+  orig: 63, 17
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 384, 106
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1

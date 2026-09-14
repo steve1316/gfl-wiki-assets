@@ -1,0 +1,384 @@
+
+Beowulf_30028.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bbangs1
+  rotate: true
+  xy: 136, 31
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+Larm1
+  rotate: false
+  xy: 551, 119
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 529, 100
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+Lbangs1
+  rotate: false
+  xy: 622, 141
+  size: 17, 49
+  orig: 17, 49
+  offset: 0, 0
+  index: -1
+Lcoat1
+  rotate: true
+  xy: 331, 49
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+Lear
+  rotate: true
+  xy: 126, 3
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+Leye1
+  rotate: true
+  xy: 641, 133
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+Leye2
+  rotate: true
+  xy: 553, 83
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 473, 64
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+Lhand2
+  rotate: true
+  xy: 523, 65
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: false
+  xy: 191, 32
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: false
+  xy: 221, 36
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Lyey4
+  rotate: true
+  xy: 524, 83
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 360, 48
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: false
+  xy: 449, 59
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+Rbangs1
+  rotate: true
+  xy: 669, 177
+  size: 17, 47
+  orig: 17, 47
+  offset: 0, 0
+  index: -1
+Rcoat1
+  rotate: true
+  xy: 550, 100
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+Rear
+  rotate: true
+  xy: 669, 150
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+Reye1
+  rotate: false
+  xy: 160, 3
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+Reye2
+  rotate: true
+  xy: 669, 127
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+Reye4
+  rotate: false
+  xy: 422, 52
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 500, 63
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: true
+  xy: 386, 52
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 90, 5
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 331, 68
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 596, 142
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 376, 136
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 211, 72
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 386, 81
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 539, 192
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+coconut1
+  rotate: false
+  xy: 551, 139
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+coconut2
+  rotate: true
+  xy: 273, 124
+  size: 76, 101
+  orig: 76, 101
+  offset: 0, 0
+  index: -1
+coconut3
+  rotate: true
+  xy: 2, 2
+  size: 37, 86
+  orig: 37, 86
+  offset: 0, 0
+  index: -1
+coconut4
+  rotate: false
+  xy: 2, 41
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+coconut5
+  rotate: true
+  xy: 106, 34
+  size: 87, 28
+  orig: 87, 28
+  offset: 0, 0
+  index: -1
+coconut6
+  rotate: false
+  xy: 641, 196
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+coconut7
+  rotate: false
+  xy: 136, 68
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+coconut8
+  rotate: false
+  xy: 431, 83
+  size: 91, 24
+  orig: 91, 24
+  offset: 0, 0
+  index: -1
+coconut9
+  rotate: true
+  xy: 135, 140
+  size: 106, 136
+  orig: 106, 136
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 263, 57
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 273, 202
+  size: 156, 44
+  orig: 156, 44
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 431, 191
+  size: 106, 55
+  orig: 106, 55
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 123
+  size: 131, 123
+  orig: 131, 123
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 211, 68
+  size: 5, 2
+  orig: 5, 2
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 263, 131
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: true
+  xy: 376, 124
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 250, 57
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 529, 127
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+shan1
+  rotate: true
+  xy: 743, 166
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+shan2
+  rotate: true
+  xy: 841, 166
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+shan3
+  rotate: false
+  xy: 939, 150
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+shan4
+  rotate: true
+  xy: 431, 109
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 718, 166
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+tape
+  rotate: false
+  xy: 641, 154
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
