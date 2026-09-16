@@ -1,0 +1,43 @@
+{
+ "Version": 3,
+ "FileReferences": {
+  "Moc": "model.moc3",
+  "Textures": [
+   "texture0.webp"
+  ],
+  "Motions": {
+   "Idle": [
+    {
+     "File": "motions/daiji_idle_01.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.5
+    }
+   ],
+   "scene1": [
+    {
+     "File": "motions/scene1.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.5
+    }
+   ]
+  }
+ },
+ "Groups": [
+  {
+   "Target": "Parameter",
+   "Name": "EyeBlink",
+   "Ids": []
+  },
+  {
+   "Target": "Parameter",
+   "Name": "LipSync",
+   "Ids": []
+  }
+ ],
+ "HitAreas": [
+  {
+   "Id": "HitAreabody",
+   "Name": "body"
+  }
+ ]
+}
