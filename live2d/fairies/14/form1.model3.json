@@ -1,0 +1,75 @@
+{
+ "Version": 3,
+ "FileReferences": {
+  "Moc": "form1.moc3",
+  "Textures": [
+   "texture.webp"
+  ],
+  "Motions": {
+   "Idle": [
+    {
+     "File": "motions/daiji_idle.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "motou_01": [
+    {
+     "File": "motions/motou_01.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "motou_02": [
+    {
+     "File": "motions/motou_02.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "motou_03": [
+    {
+     "File": "motions/motou_03.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "wait_01": [
+    {
+     "File": "motions/wait_01.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "wait_02": [
+    {
+     "File": "motions/wait_02.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ]
+  }
+ },
+ "Groups": [
+  {
+   "Target": "Parameter",
+   "Name": "EyeBlink",
+   "Ids": []
+  },
+  {
+   "Target": "Parameter",
+   "Name": "LipSync",
+   "Ids": []
+  }
+ ],
+ "HitAreas": [
+  {
+   "Id": "HitAreaBody",
+   "Name": "body"
+  },
+  {
+   "Id": "HitAreaHead",
+   "Name": "head"
+  }
+ ]
+}
