@@ -1,0 +1,134 @@
+{
+ "Version": 3,
+ "FileReferences": {
+  "Moc": "model.moc3",
+  "Textures": [
+   "texture0.webp"
+  ],
+  "Motions": {
+   "Idle": [
+    {
+     "File": "motions/daiji_idle_01.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "login": [
+    {
+     "File": "motions/login.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "scene1": [
+    {
+     "File": "motions/scene1.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "shake": [
+    {
+     "File": "motions/shake.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "touch_1": [
+    {
+     "File": "motions/touch_1.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "touch_2": [
+    {
+     "File": "motions/touch_2.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "touch_3": [
+    {
+     "File": "motions/touch_3.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "touch_4": [
+    {
+     "File": "motions/touch_4.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "touch_5": [
+    {
+     "File": "motions/touch_5.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "wait_1": [
+    {
+     "File": "motions/wait_1.motion3.json",
+     "FadeInTime": 0.30000001192092896,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "wait_2": [
+    {
+     "File": "motions/wait_2.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "wedding": [
+    {
+     "File": "motions/wedding.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "wedding touch": [
+    {
+     "File": "motions/wedding touch.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ]
+  },
+  "Physics": "model.physics3.json"
+ },
+ "Groups": [
+  {
+   "Target": "Parameter",
+   "Name": "EyeBlink",
+   "Ids": [
+    "ParamEyeLOpen",
+    "ParamEyeROpen"
+   ]
+  },
+  {
+   "Target": "Parameter",
+   "Name": "LipSync",
+   "Ids": [
+    "ParamMouthOpenY"
+   ]
+  }
+ ],
+ "HitAreas": [
+  {
+   "Id": "HitAreaHead",
+   "Name": "head"
+  },
+  {
+   "Id": "HitAreaBody",
+   "Name": "body"
+  },
+  {
+   "Id": "HitAreaLeg",
+   "Name": "leg"
+  }
+ ]
+}
