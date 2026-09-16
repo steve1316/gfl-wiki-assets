@@ -1,0 +1,102 @@
+{
+ "Version": 3,
+ "FileReferences": {
+  "Moc": "model.moc3",
+  "Textures": [
+   "texture0.webp"
+  ],
+  "Motions": {
+   "Idle": [
+    {
+     "File": "motions/daiji_idle_01.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    },
+    {
+     "File": "motions/daiji_idle_p.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "broken": [
+    {
+     "File": "motions/broken.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "broken_02": [
+    {
+     "File": "motions/broken_02.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "daiji01_showcace": [
+    {
+     "File": "motions/daiji01_showcace.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "shake": [
+    {
+     "File": "motions/shake.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "wait_01": [
+    {
+     "File": "motions/wait_01.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "wedding_01": [
+    {
+     "File": "motions/wedding_01.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "wedding_02": [
+    {
+     "File": "motions/wedding_02.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "wedding_03": [
+    {
+     "File": "motions/wedding_03.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ]
+  },
+  "Physics": "model.physics3.json"
+ },
+ "Groups": [
+  {
+   "Target": "Parameter",
+   "Name": "EyeBlink",
+   "Ids": []
+  },
+  {
+   "Target": "Parameter",
+   "Name": "LipSync",
+   "Ids": []
+  }
+ ],
+ "HitAreas": [
+  {
+   "Id": "HitAreaBody",
+   "Name": "body"
+  },
+  {
+   "Id": "HitAreaHead",
+   "Name": "head"
+  }
+ ]
+}

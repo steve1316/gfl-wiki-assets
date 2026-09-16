@@ -1,0 +1,95 @@
+{
+ "Version": 3,
+ "FileReferences": {
+  "Moc": "model.moc3",
+  "Textures": [
+   "texture0.webp",
+   "texture1.webp"
+  ],
+  "Motions": {
+   "broken_1": [
+    {
+     "File": "motions/broken_1.motion3.json",
+     "FadeInTime": 0.30000001192092896,
+     "FadeOutTime": 0.30000001192092896
+    }
+   ],
+   "broken_2": [
+    {
+     "File": "motions/broken_2.motion3.json",
+     "FadeInTime": 0.20000000298023224,
+     "FadeOutTime": 0.30000001192092896
+    }
+   ],
+   "broken_3": [
+    {
+     "File": "motions/broken_3.motion3.json",
+     "FadeInTime": 0.30000001192092896,
+     "FadeOutTime": 0.30000001192092896
+    }
+   ],
+   "broken_4": [
+    {
+     "File": "motions/broken_4.motion3.json",
+     "FadeInTime": 0.20000000298023224,
+     "FadeOutTime": 0.30000001192092896
+    }
+   ],
+   "broken_5": [
+    {
+     "File": "motions/broken_5.motion3.json",
+     "FadeInTime": 0.2199999988079071,
+     "FadeOutTime": 0.30000001192092896
+    }
+   ],
+   "idle": [
+    {
+     "File": "motions/idle.motion3.json",
+     "FadeInTime": 0.30000001192092896,
+     "FadeOutTime": 0.30000001192092896
+    }
+   ],
+   "login": [
+    {
+     "File": "motions/login.motion3.json",
+     "FadeInTime": 0.20000000298023224,
+     "FadeOutTime": 0.30000001192092896
+    }
+   ],
+   "shake": [
+    {
+     "File": "motions/shake.motion3.json",
+     "FadeInTime": 0.20000000298023224,
+     "FadeOutTime": 0.20000000298023224
+    }
+   ]
+  },
+  "Physics": "model.physics3.json"
+ },
+ "Groups": [
+  {
+   "Target": "Parameter",
+   "Name": "EyeBlink",
+   "Ids": []
+  },
+  {
+   "Target": "Parameter",
+   "Name": "LipSync",
+   "Ids": []
+  }
+ ],
+ "HitAreas": [
+  {
+   "Id": "HitAreaHead",
+   "Name": "head"
+  },
+  {
+   "Id": "HitAreaBody",
+   "Name": "body"
+  },
+  {
+   "Id": "HitAreaLeg",
+   "Name": "leg"
+  }
+ ]
+}

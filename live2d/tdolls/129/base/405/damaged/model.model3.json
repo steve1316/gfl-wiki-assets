@@ -1,0 +1,112 @@
+{
+ "Version": 3,
+ "FileReferences": {
+  "Moc": "model.moc3",
+  "Textures": [
+   "texture0.webp"
+  ],
+  "Motions": {
+   "Idle": [
+    {
+     "File": "motions/daiji_idle_02.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "broken_1": [
+    {
+     "File": "motions/broken_1.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "broken_1_c": [
+    {
+     "File": "motions/broken_1_c.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "broken_2": [
+    {
+     "File": "motions/broken_2.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "broken_2_c": [
+    {
+     "File": "motions/broken_2_c.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "broken_3": [
+    {
+     "File": "motions/broken_3.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "broken_4": [
+    {
+     "File": "motions/broken_4.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "login_2": [
+    {
+     "File": "motions/login_2.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "shake_broken": [
+    {
+     "File": "motions/shake_broken.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "wait_02": [
+    {
+     "File": "motions/wait_02.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "wait_03": [
+    {
+     "File": "motions/wait_03.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ]
+  },
+  "Physics": "model.physics3.json"
+ },
+ "Groups": [
+  {
+   "Target": "Parameter",
+   "Name": "EyeBlink",
+   "Ids": [
+    "ParamEyeLOpen1",
+    "ParamEyeROpen1"
+   ]
+  },
+  {
+   "Target": "Parameter",
+   "Name": "LipSync",
+   "Ids": [
+    "ParamMouthOpenY"
+   ]
+  }
+ ],
+ "HitAreas": [
+  {
+   "Id": "HitAreaBody",
+   "Name": "body"
+  }
+ ]
+}

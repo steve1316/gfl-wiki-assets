@@ -1,0 +1,142 @@
+{
+ "Version": 3,
+ "FileReferences": {
+  "Moc": "model.moc3",
+  "Textures": [
+   "texture0.webp",
+   "texture1.webp"
+  ],
+  "Motions": {
+   "Idle": [
+    {
+     "File": "motions/daiji_idle_01.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.5
+    }
+   ],
+   "login": [
+    {
+     "File": "motions/login.motion3.json",
+     "FadeInTime": 0.0,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "repeat": [
+    {
+     "File": "motions/repeat.motion3.json",
+     "FadeInTime": 0.0,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "shake": [
+    {
+     "File": "motions/shake.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "touch_1": [
+    {
+     "File": "motions/touch_1.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "touch_2": [
+    {
+     "File": "motions/touch_2.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "touch_3": [
+    {
+     "File": "motions/touch_3.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "touch_4": [
+    {
+     "File": "motions/touch_4.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "touch_5": [
+    {
+     "File": "motions/touch_5.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "wait_1": [
+    {
+     "File": "motions/wait_1.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "wedding": [
+    {
+     "File": "motions/wedding.motion3.json",
+     "FadeInTime": 0.0,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "wedding_touch": [
+    {
+     "File": "motions/wedding_touch.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ]
+  }
+ },
+ "Groups": [
+  {
+   "Target": "Parameter",
+   "Name": "EyeBlink",
+   "Ids": []
+  },
+  {
+   "Target": "Parameter",
+   "Name": "LipSync",
+   "Ids": []
+  }
+ ],
+ "HitAreas": [
+  {
+   "Id": "HitAreaHead1",
+   "Name": "head1"
+  },
+  {
+   "Id": "HitAreaHead2",
+   "Name": "head2"
+  },
+  {
+   "Id": "HitAreaBody1",
+   "Name": "body1"
+  },
+  {
+   "Id": "HitAreaBody2",
+   "Name": "body2"
+  },
+  {
+   "Id": "HitAreaLeg1",
+   "Name": "leg1"
+  },
+  {
+   "Id": "HitAreaLeg2",
+   "Name": "leg2"
+  },
+  {
+   "Id": "HitAreaDrag1",
+   "Name": ""
+  },
+  {
+   "Id": "HitAreaDrag2",
+   "Name": ""
+  }
+ ]
+}
