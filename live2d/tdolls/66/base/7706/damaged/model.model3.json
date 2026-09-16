@@ -1,0 +1,99 @@
+{
+ "Version": 3,
+ "FileReferences": {
+  "Moc": "model.moc3",
+  "Textures": [
+   "texture0.webp",
+   "texture1.webp"
+  ],
+  "Motions": {
+   "Idle": [
+    {
+     "File": "motions/daiji_idle_01.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.5
+    }
+   ],
+   "broken_1": [
+    {
+     "File": "motions/broken_1.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "broken_2": [
+    {
+     "File": "motions/broken_2.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "broken_3": [
+    {
+     "File": "motions/broken_3.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "broken_4": [
+    {
+     "File": "motions/broken_4.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "broken_5": [
+    {
+     "File": "motions/broken_5.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 1.0
+    }
+   ],
+   "login": [
+    {
+     "File": "motions/login.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 0.5
+    }
+   ],
+   "shake": [
+    {
+     "File": "motions/shake.motion3.json",
+     "FadeInTime": 1.0,
+     "FadeOutTime": 1.0
+    }
+   ]
+  },
+  "Physics": "model.physics3.json"
+ },
+ "Groups": [
+  {
+   "Target": "Parameter",
+   "Name": "EyeBlink",
+   "Ids": []
+  },
+  {
+   "Target": "Parameter",
+   "Name": "LipSync",
+   "Ids": []
+  }
+ ],
+ "HitAreas": [
+  {
+   "Id": "HitAreaHead",
+   "Name": "head"
+  },
+  {
+   "Id": "HitAreaBody1",
+   "Name": "body1"
+  },
+  {
+   "Id": "HitAreaBody",
+   "Name": "body"
+  },
+  {
+   "Id": "HitAreaLeg",
+   "Name": "leg"
+  }
+ ]
+}

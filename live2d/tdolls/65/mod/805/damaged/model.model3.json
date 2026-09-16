@@ -1,0 +1,86 @@
+{
+ "Version": 3,
+ "FileReferences": {
+  "Moc": "model.moc3",
+  "Textures": [
+   "texture0.webp"
+  ],
+  "Motions": {
+   "Idle": [
+    {
+     "File": "motions/daiji_idle_02.motion3.json",
+     "FadeInTime": 0.6000000238418579,
+     "FadeOutTime": 0.6000000238418579
+    }
+   ],
+   "broken_1": [
+    {
+     "File": "motions/broken_1.motion3.json",
+     "FadeInTime": 0.6000000238418579,
+     "FadeOutTime": 0.6000000238418579
+    }
+   ],
+   "broken_2": [
+    {
+     "File": "motions/broken_2.motion3.json",
+     "FadeInTime": 0.6000000238418579,
+     "FadeOutTime": 0.6000000238418579
+    }
+   ],
+   "broken_3": [
+    {
+     "File": "motions/broken_3.motion3.json",
+     "FadeInTime": 0.6000000238418579,
+     "FadeOutTime": 0.6000000238418579
+    }
+   ],
+   "broken_4": [
+    {
+     "File": "motions/broken_4.motion3.json",
+     "FadeInTime": 0.6000000238418579,
+     "FadeOutTime": 0.6000000238418579
+    }
+   ],
+   "broken_5": [
+    {
+     "File": "motions/broken_5.motion3.json",
+     "FadeInTime": 0.6000000238418579,
+     "FadeOutTime": 0.6000000238418579
+    }
+   ],
+   "shake": [
+    {
+     "File": "motions/shake.motion3.json",
+     "FadeInTime": 0.6000000238418579,
+     "FadeOutTime": 0.6000000238418579
+    }
+   ]
+  }
+ },
+ "Groups": [
+  {
+   "Target": "Parameter",
+   "Name": "EyeBlink",
+   "Ids": []
+  },
+  {
+   "Target": "Parameter",
+   "Name": "LipSync",
+   "Ids": []
+  }
+ ],
+ "HitAreas": [
+  {
+   "Id": "HitAreaLeg",
+   "Name": "leg"
+  },
+  {
+   "Id": "HitAreaBody",
+   "Name": "body"
+  },
+  {
+   "Id": "HitAreaHead",
+   "Name": "head"
+  }
+ ]
+}

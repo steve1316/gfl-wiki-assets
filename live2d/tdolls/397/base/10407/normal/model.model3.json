@@ -1,0 +1,171 @@
+{
+ "Version": 3,
+ "FileReferences": {
+  "Moc": "model.moc3",
+  "Textures": [
+   "texture0.webp",
+   "texture1.webp"
+  ],
+  "Motions": {
+   "Idle": [
+    {
+     "File": "motions/daiji_idle_01.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.5
+    }
+   ],
+   "daiji_bg": [
+    {
+     "File": "motions/daiji_bg.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.5
+    }
+   ],
+   "login": [
+    {
+     "File": "motions/login.motion3.json",
+     "FadeInTime": 0.0,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "shake": [
+    {
+     "File": "motions/shake.motion3.json",
+     "FadeInTime": 0.30000001192092896,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "touch_1": [
+    {
+     "File": "motions/touch_1.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "touch_2a": [
+    {
+     "File": "motions/touch_2a.motion3.json",
+     "FadeInTime": 0.30000001192092896,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "touch_2b": [
+    {
+     "File": "motions/touch_2b.motion3.json",
+     "FadeInTime": 0.30000001192092896,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "touch_3a": [
+    {
+     "File": "motions/touch_3a.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "touch_3b": [
+    {
+     "File": "motions/touch_3b.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "touch_3c": [
+    {
+     "File": "motions/touch_3c.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "touch_4": [
+    {
+     "File": "motions/touch_4.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "touch_5": [
+    {
+     "File": "motions/touch_5.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "wait_1": [
+    {
+     "File": "motions/wait_1.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "wait_2": [
+    {
+     "File": "motions/wait_2.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "wedding": [
+    {
+     "File": "motions/wedding.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ],
+   "wedding_touch": [
+    {
+     "File": "motions/wedding_touch.motion3.json",
+     "FadeInTime": 0.5,
+     "FadeOutTime": 0.0
+    }
+   ]
+  }
+ },
+ "Groups": [
+  {
+   "Target": "Parameter",
+   "Name": "EyeBlink",
+   "Ids": [
+    "ParamEyeLOpen",
+    "ParamEyeROpen"
+   ]
+  },
+  {
+   "Target": "Parameter",
+   "Name": "LipSync",
+   "Ids": [
+    "ParamMouthOpenY"
+   ]
+  }
+ ],
+ "HitAreas": [
+  {
+   "Id": "HitAreaHEAD",
+   "Name": "head"
+  },
+  {
+   "Id": "HitAreaBODY",
+   "Name": "body"
+  },
+  {
+   "Id": "HitAreaLEGA",
+   "Name": "leg1"
+  },
+  {
+   "Id": "HitAreaLEGB",
+   "Name": "leg2"
+  },
+  {
+   "Id": "HitAreaLEGC",
+   "Name": "leg3"
+  },
+  {
+   "Id": "HitAreaFEETA",
+   "Name": "feet1"
+  },
+  {
+   "Id": "HitAreaFEETB",
+   "Name": "feet2"
+  }
+ ]
+}
