@@ -1,0 +1,293 @@
+
+G11_SagaEnemy.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B
+  rotate: false
+  xy: 521, 62
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 823, 104
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+Larm1
+  rotate: true
+  xy: 641, 66
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 700, 60
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+Leye1
+  rotate: true
+  xy: 728, 58
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+Leye2
+  rotate: false
+  xy: 762, 68
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+Leye3
+  rotate: true
+  xy: 888, 64
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Leye4
+  rotate: true
+  xy: 888, 81
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 273, 2
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: true
+  xy: 669, 66
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 862, 100
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+R
+  rotate: true
+  xy: 1000, 95
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 861, 73
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: true
+  xy: 703, 83
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Reye1
+  rotate: true
+  xy: 936, 101
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+Reye2
+  rotate: true
+  xy: 968, 101
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+Reye3
+  rotate: false
+  xy: 838, 73
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+Reye4
+  rotate: true
+  xy: 807, 79
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 300, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: true
+  xy: 564, 50
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 900, 99
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+ace
+  rotate: false
+  xy: 453, 60
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 609, 88
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 564, 76
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 664, 89
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+guitar
+  rotate: false
+  xy: 141, 16
+  size: 130, 110
+  orig: 130, 110
+  offset: 0, 0
+  index: -1
+guitaritem
+  rotate: false
+  xy: 780, 74
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 273, 69
+  size: 98, 57
+  orig: 98, 57
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 728, 98
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 12
+  size: 137, 114
+  orig: 137, 114
+  offset: 0, 0
+  index: -1
+lex1
+  rotate: true
+  xy: 273, 22
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+lex1b
+  rotate: true
+  xy: 609, 70
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+lex2
+  rotate: true
+  xy: 728, 76
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+lex3
+  rotate: false
+  xy: 341, 17
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+lex4
+  rotate: true
+  xy: 373, 72
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 2, 4
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 596, 65
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 326, 17
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 664, 106
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+wearM
+  rotate: false
+  xy: 326, 2
+  size: 43, 13
+  orig: 43, 13
+  offset: 0, 0
+  index: -1
+wearR
+  rotate: true
+  xy: 779, 104
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1

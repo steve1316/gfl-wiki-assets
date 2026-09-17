@@ -1,0 +1,104 @@
+
+Cerynitis_Deutsch.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 443, 25
+  size: 102, 101
+  orig: 102, 101
+  offset: 0, 0
+  index: -1
+gunBase
+  rotate: false
+  xy: 2, 19
+  size: 136, 107
+  orig: 136, 107
+  offset: 0, 0
+  index: -1
+gunL
+  rotate: false
+  xy: 547, 88
+  size: 108, 38
+  orig: 108, 38
+  offset: 0, 0
+  index: -1
+gunLm
+  rotate: false
+  xy: 140, 35
+  size: 90, 14
+  orig: 90, 14
+  offset: 0, 0
+  index: -1
+gunR
+  rotate: false
+  xy: 657, 87
+  size: 104, 39
+  orig: 104, 39
+  offset: 0, 0
+  index: -1
+gunRm
+  rotate: false
+  xy: 2, 4
+  size: 86, 13
+  orig: 86, 13
+  offset: 0, 0
+  index: -1
+legL1
+  rotate: true
+  xy: 591, 15
+  size: 71, 54
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+legL2
+  rotate: true
+  xy: 763, 82
+  size: 44, 87
+  orig: 44, 87
+  offset: 0, 0
+  index: -1
+legR1
+  rotate: false
+  xy: 647, 32
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+legR2
+  rotate: false
+  xy: 547, 2
+  size: 42, 84
+  orig: 42, 84
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 934, 106
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+shiedL
+  rotate: true
+  xy: 140, 51
+  size: 75, 165
+  orig: 75, 165
+  offset: 0, 0
+  index: -1
+shieldB
+  rotate: true
+  xy: 852, 85
+  size: 41, 80
+  orig: 41, 80
+  offset: 0, 0
+  index: -1
+shieldR
+  rotate: true
+  xy: 307, 47
+  size: 79, 134
+  orig: 79, 134
+  offset: 0, 0
+  index: -1

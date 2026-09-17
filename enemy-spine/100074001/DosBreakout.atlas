@@ -1,0 +1,272 @@
+
+DosBreakout.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: true
+  xy: 322, 82
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 407, 93
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+Lcoat1
+  rotate: true
+  xy: 434, 89
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+Leye1
+  rotate: true
+  xy: 307, 82
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+Leye2
+  rotate: true
+  xy: 83, 3
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+Lhand1
+  rotate: true
+  xy: 434, 74
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+Lhand2
+  rotate: false
+  xy: 66, 2
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+Lhand3
+  rotate: true
+  xy: 120, 59
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: true
+  xy: 323, 102
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 434, 109
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+Lleg3
+  rotate: false
+  xy: 349, 82
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 2, 2
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: true
+  xy: 30, 3
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+Rcoat1
+  rotate: true
+  xy: 69, 45
+  size: 11, 33
+  orig: 11, 33
+  offset: 0, 0
+  index: -1
+Reye1
+  rotate: false
+  xy: 104, 42
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Reye2
+  rotate: false
+  xy: 458, 74
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 466, 59
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+Rhand0
+  rotate: false
+  xy: 407, 57
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+Rhand1
+  rotate: false
+  xy: 233, 69
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Rhand2
+  rotate: false
+  xy: 431, 54
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Rhand3
+  rotate: false
+  xy: 452, 59
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: true
+  xy: 261, 82
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 473, 110
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+Rleg3
+  rotate: false
+  xy: 407, 75
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+beard
+  rotate: true
+  xy: 395, 64
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 211, 80
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 366, 88
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 49
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+galsses
+  rotate: false
+  xy: 261, 106
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 66, 25
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+gun2
+  rotate: false
+  xy: 366, 79
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 136, 75
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 69, 66
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: true
+  xy: 99, 34
+  size: 9, 2
+  orig: 9, 2
+  offset: 0, 0
+  index: -1
+needle
+  rotate: false
+  xy: 211, 73
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 27
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+sword1
+  rotate: true
+  xy: 69, 58
+  size: 6, 49
+  orig: 6, 49
+  offset: 0, 0
+  index: -1
+sword2
+  rotate: true
+  xy: 136, 67
+  size: 6, 67
+  orig: 6, 67
+  offset: 0, 0
+  index: -1

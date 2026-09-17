@@ -1,0 +1,223 @@
+
+Chariot_Military_Deutsch.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cebian
+  rotate: false
+  xy: 437, 414
+  size: 222, 96
+  orig: 222, 96
+  offset: 0, 0
+  index: -1
+cebian2
+  rotate: true
+  xy: 384, 253
+  size: 112, 48
+  orig: 112, 48
+  offset: 0, 0
+  index: -1
+cebian3
+  rotate: false
+  xy: 639, 379
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+dangban
+  rotate: false
+  xy: 104, 112
+  size: 146, 57
+  orig: 146, 57
+  offset: 0, 0
+  index: -1
+deng
+  rotate: false
+  xy: 462, 203
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+dizuo
+  rotate: false
+  xy: 2, 367
+  size: 433, 143
+  orig: 433, 143
+  offset: 0, 0
+  index: -1
+jizuo
+  rotate: false
+  xy: 661, 420
+  size: 171, 90
+  orig: 171, 90
+  offset: 0, 0
+  index: -1
+lunzi2
+  rotate: false
+  xy: 2, 19
+  size: 96, 93
+  orig: 96, 93
+  offset: 0, 0
+  index: -1
+lunzi3
+  rotate: true
+  xy: 216, 31
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+lunzi4
+  rotate: true
+  xy: 305, 185
+  size: 56, 77
+  orig: 56, 77
+  offset: 0, 0
+  index: -1
+lunzi5
+  rotate: false
+  xy: 384, 174
+  size: 56, 77
+  orig: 56, 77
+  offset: 0, 0
+  index: -1
+lvdai1
+  rotate: false
+  xy: 100, 18
+  size: 114, 92
+  orig: 114, 92
+  offset: 0, 0
+  index: -1
+lvdai2
+  rotate: false
+  xy: 434, 264
+  size: 114, 92
+  orig: 114, 92
+  offset: 0, 0
+  index: -1
+lvdai3
+  rotate: false
+  xy: 550, 264
+  size: 114, 92
+  orig: 114, 92
+  offset: 0, 0
+  index: -1
+lvdeng
+  rotate: false
+  xy: 281, 229
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+neilun1
+  rotate: true
+  xy: 526, 245
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+neilun2
+  rotate: true
+  xy: 462, 180
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+neilun3
+  rotate: false
+  xy: 503, 206
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+paogai1
+  rotate: true
+  xy: 2, 2
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+paogai2
+  rotate: false
+  xy: 282, 88
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+paoguan1
+  rotate: false
+  xy: 104, 171
+  size: 199, 55
+  orig: 199, 55
+  offset: 0, 0
+  index: -1
+paoguan2
+  rotate: false
+  xy: 437, 358
+  size: 200, 54
+  orig: 200, 54
+  offset: 0, 0
+  index: -1
+paotai
+  rotate: false
+  xy: 104, 228
+  size: 175, 137
+  orig: 175, 137
+  offset: 0, 0
+  index: -1
+qiandeng
+  rotate: true
+  xy: 958, 398
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 462, 242
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+tianxian
+  rotate: false
+  xy: 442, 182
+  size: 18, 80
+  orig: 18, 80
+  offset: 0, 0
+  index: -1
+tyn1
+  rotate: false
+  xy: 281, 243
+  size: 101, 122
+  orig: 101, 122
+  offset: 0, 0
+  index: -1
+tyn2
+  rotate: true
+  xy: 834, 409
+  size: 101, 122
+  orig: 101, 122
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 216, 74
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+zhihuita
+  rotate: false
+  xy: 2, 114
+  size: 100, 251
+  orig: 100, 251
+  offset: 0, 0
+  index: -1
+zhishiqi
+  rotate: true
+  xy: 252, 112
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1

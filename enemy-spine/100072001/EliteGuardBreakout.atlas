@@ -1,0 +1,132 @@
+
+EliteGuardBreakout.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: false
+  xy: 308, 82
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: true
+  xy: 465, 93
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 358, 55
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: false
+  xy: 355, 85
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 217, 33
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 308, 52
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: false
+  xy: 265, 73
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 397, 38
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Rhand2
+  rotate: false
+  xy: 427, 35
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: false
+  xy: 173, 30
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 173, 2
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+bag
+  rotate: true
+  xy: 182, 68
+  size: 58, 81
+  orig: 58, 81
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 5
+  size: 82, 91
+  orig: 82, 91
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 95, 5
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2, 89
+  size: 178, 37
+  orig: 178, 37
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 401, 106
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+tape1
+  rotate: true
+  xy: 401, 85
+  size: 19, 50
+  orig: 19, 50
+  offset: 0, 0
+  index: -1
+tape2
+  rotate: true
+  xy: 397, 64
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1

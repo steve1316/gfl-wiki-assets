@@ -1,0 +1,104 @@
+
+RecceCentre_beach.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+all
+  rotate: false
+  xy: 2, 576
+  size: 533, 443
+  orig: 533, 443
+  offset: 0, 0
+  index: -1
+chuang1
+  rotate: false
+  xy: 679, 679
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+chuang1die
+  rotate: false
+  xy: 768, 969
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+chuang2
+  rotate: false
+  xy: 452, 390
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+chuang2die
+  rotate: false
+  xy: 679, 613
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+diji
+  rotate: false
+  xy: 2, 31
+  size: 533, 168
+  orig: 533, 168
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 452, 456
+  size: 73, 118
+  orig: 73, 118
+  offset: 0, 0
+  index: -1
+fangzi1
+  rotate: false
+  xy: 2, 201
+  size: 448, 373
+  orig: 448, 373
+  offset: 0, 0
+  index: -1
+fangzi2
+  rotate: false
+  xy: 679, 731
+  size: 87, 288
+  orig: 87, 288
+  offset: 0, 0
+  index: -1
+menlian1
+  rotate: true
+  xy: 841, 996
+  size: 23, 67
+  orig: 23, 67
+  offset: 0, 0
+  index: -1
+menlian2
+  rotate: true
+  xy: 2, 2
+  size: 27, 66
+  orig: 27, 66
+  offset: 0, 0
+  index: -1
+menlian3
+  rotate: false
+  xy: 768, 906
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+saoguang2
+  rotate: true
+  xy: 452, 337
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 537, 481
+  size: 538, 140
+  orig: 538, 140
+  offset: 0, 0
+  index: -1

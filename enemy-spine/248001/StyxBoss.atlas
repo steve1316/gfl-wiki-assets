@@ -1,0 +1,307 @@
+
+StyxBoss.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: false
+  xy: 848, 68
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 535, 10
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 671, 55
+  size: 17, 48
+  orig: 17, 48
+  offset: 0, 0
+  index: -1
+Lfoot2
+  rotate: true
+  xy: 49, 5
+  size: 11, 52
+  orig: 11, 52
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 450, 3
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: true
+  xy: 284, 2
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 208, 2
+  size: 22, 74
+  orig: 22, 74
+  offset: 0, 0
+  index: -1
+Lleg3
+  rotate: false
+  xy: 1000, 88
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: true
+  xy: 350, 2
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: true
+  xy: 823, 66
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: false
+  xy: 690, 55
+  size: 17, 48
+  orig: 17, 48
+  offset: 0, 0
+  index: -1
+Rfoot2
+  rotate: true
+  xy: 103, 5
+  size: 11, 52
+  orig: 11, 52
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 2, 2
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: true
+  xy: 385, 4
+  size: 26, 63
+  orig: 26, 63
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 875, 78
+  size: 25, 74
+  orig: 25, 74
+  offset: 0, 0
+  index: -1
+Rleg3
+  rotate: false
+  xy: 23, 2
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+chest
+  rotate: false
+  xy: 651, 3
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 748, 65
+  size: 73, 38
+  orig: 73, 38
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 780, 25
+  size: 73, 38
+  orig: 73, 38
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 465, 38
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+finger
+  rotate: false
+  xy: 1000, 75
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+finger2
+  rotate: false
+  xy: 1000, 62
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+flash
+  rotate: false
+  xy: 633, 105
+  size: 389, 21
+  orig: 389, 21
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 136, 20
+  size: 106, 67
+  orig: 106, 67
+  offset: 0, 0
+  index: -1
+hair B
+  rotate: false
+  xy: 2, 18
+  size: 132, 108
+  orig: 132, 108
+  offset: 0, 0
+  index: -1
+lex F1
+  rotate: true
+  xy: 472, 2
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+lex F2
+  rotate: false
+  xy: 696, 9
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+lex F3
+  rotate: false
+  xy: 741, 14
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+lex F4
+  rotate: false
+  xy: 729, 59
+  size: 17, 44
+  orig: 17, 44
+  offset: 0, 0
+  index: -1
+lex F5
+  rotate: true
+  xy: 575, 3
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+lex F6
+  rotate: true
+  xy: 233, 32
+  size: 94, 151
+  orig: 94, 151
+  offset: 0, 0
+  index: -1
+lex F7
+  rotate: false
+  xy: 709, 59
+  size: 18, 44
+  orig: 18, 44
+  offset: 0, 0
+  index: -1
+lex F8
+  rotate: true
+  xy: 633, 49
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+lex L
+  rotate: false
+  xy: 386, 35
+  size: 77, 91
+  orig: 77, 91
+  offset: 0, 0
+  index: -1
+lex L item
+  rotate: false
+  xy: 659, 54
+  size: 10, 49
+  orig: 10, 49
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 741, 5
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 41, 4
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 780, 3
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+sk
+  rotate: false
+  xy: 855, 2
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+sk B
+  rotate: true
+  xy: 933, 2
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+sk L
+  rotate: false
+  xy: 554, 46
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+sk R
+  rotate: false
+  xy: 205, 26
+  size: 26, 100
+  orig: 26, 100
+  offset: 0, 0
+  index: -1
+take
+  rotate: false
+  xy: 157, 2
+  size: 49, 16
+  orig: 49, 16
+  offset: 0, 0
+  index: -1

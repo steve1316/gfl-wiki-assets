@@ -1,0 +1,160 @@
+
+Cerberus.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mis
+  rotate: false
+  xy: 504, 125
+  size: 99, 18
+  orig: 99, 18
+  offset: 0, 0
+  index: -1
+Mis2
+  rotate: true
+  xy: 725, 154
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+Mis2U
+  rotate: true
+  xy: 964, 165
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+Mis2U2
+  rotate: false
+  xy: 187, 29
+  size: 25, 57
+  orig: 25, 57
+  offset: 0, 0
+  index: -1
+MisU
+  rotate: false
+  xy: 504, 145
+  size: 146, 40
+  orig: 146, 40
+  offset: 0, 0
+  index: -1
+MisU2
+  rotate: false
+  xy: 895, 149
+  size: 67, 39
+  orig: 67, 39
+  offset: 0, 0
+  index: -1
+gunL
+  rotate: true
+  xy: 367, 2
+  size: 121, 81
+  orig: 121, 81
+  offset: 0, 0
+  index: -1
+gunM
+  rotate: false
+  xy: 504, 187
+  size: 152, 67
+  orig: 152, 67
+  offset: 0, 0
+  index: -1
+gunR
+  rotate: false
+  xy: 2, 2
+  size: 120, 84
+  orig: 120, 84
+  offset: 0, 0
+  index: -1
+headL
+  rotate: false
+  xy: 787, 148
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+headLL
+  rotate: false
+  xy: 214, 96
+  size: 151, 158
+  orig: 151, 158
+  offset: 0, 0
+  index: -1
+hrad
+  rotate: false
+  xy: 367, 125
+  size: 135, 129
+  orig: 135, 129
+  offset: 0, 0
+  index: -1
+legB1
+  rotate: false
+  xy: 124, 7
+  size: 61, 79
+  orig: 61, 79
+  offset: 0, 0
+  index: -1
+legB2
+  rotate: false
+  xy: 498, 64
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+legB3
+  rotate: true
+  xy: 652, 146
+  size: 39, 71
+  orig: 39, 71
+  offset: 0, 0
+  index: -1
+legB4
+  rotate: false
+  xy: 450, 5
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+legF1
+  rotate: true
+  xy: 895, 190
+  size: 64, 108
+  orig: 64, 108
+  offset: 0, 0
+  index: -1
+legF2
+  rotate: false
+  xy: 450, 28
+  size: 46, 95
+  orig: 46, 95
+  offset: 0, 0
+  index: -1
+legF3
+  rotate: false
+  xy: 605, 125
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+main
+  rotate: false
+  xy: 2, 88
+  size: 210, 166
+  orig: 210, 166
+  offset: 0, 0
+  index: -1
+mainB
+  rotate: true
+  xy: 658, 187
+  size: 67, 127
+  orig: 67, 127
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 214, 74
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1

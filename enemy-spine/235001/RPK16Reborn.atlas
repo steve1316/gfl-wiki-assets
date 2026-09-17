@@ -1,0 +1,216 @@
+
+RPK16Reborn.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bbangs
+  rotate: false
+  xy: 388, 52
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Larm1
+  rotate: true
+  xy: 288, 4
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: true
+  xy: 428, 50
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Leye1
+  rotate: false
+  xy: 482, 104
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+Leye2
+  rotate: false
+  xy: 482, 87
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 323, 19
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+Lhand2
+  rotate: false
+  xy: 316, 2
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: false
+  xy: 266, 4
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: false
+  xy: 247, 4
+  size: 17, 47
+  orig: 17, 47
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: true
+  xy: 66, 10
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: true
+  xy: 323, 32
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+Reye1
+  rotate: false
+  xy: 454, 50
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Reye2
+  rotate: false
+  xy: 344, 41
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 368, 44
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: true
+  xy: 334, 58
+  size: 21, 52
+  orig: 21, 52
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 428, 73
+  size: 15, 46
+  orig: 15, 46
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: true
+  xy: 99, 2
+  size: 48, 98
+  orig: 48, 98
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: true
+  xy: 334, 81
+  size: 45, 88
+  orig: 45, 88
+  offset: 0, 0
+  index: -1
+bangs3
+  rotate: false
+  xy: 199, 2
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 424, 90
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 262, 56
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 99, 52
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 16, 3
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: true
+  xy: 476, 77
+  size: 11, 3
+  orig: 11, 3
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 344, 36
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+mouth4
+  rotate: false
+  xy: 2, 2
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 13
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+skirt1
+  rotate: false
+  xy: 2, 35
+  size: 95, 91
+  orig: 95, 91
+  offset: 0, 0
+  index: -1
+skirt2
+  rotate: false
+  xy: 288, 21
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+skirt3
+  rotate: false
+  xy: 185, 53
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1

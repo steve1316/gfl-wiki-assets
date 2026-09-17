@@ -1,0 +1,258 @@
+
+Eliza_boss_Free.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: false
+  xy: 256, 20
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 138, 2
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+Leye
+  rotate: false
+  xy: 371, 89
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+Leye2
+  rotate: true
+  xy: 164, 6
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Leye3
+  rotate: true
+  xy: 21, 5
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+Lgun
+  rotate: false
+  xy: 2, 109
+  size: 160, 145
+  orig: 160, 145
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 369, 66
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: false
+  xy: 227, 66
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 322, 94
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 403, 92
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: false
+  xy: 432, 96
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Reye
+  rotate: true
+  xy: 227, 39
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Reye2
+  rotate: false
+  xy: 256, 39
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+Reye3
+  rotate: true
+  xy: 403, 68
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+Rgun
+  rotate: false
+  xy: 164, 114
+  size: 155, 140
+  orig: 155, 140
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: true
+  xy: 2, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: true
+  xy: 271, 78
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 322, 70
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 532, 103
+  size: 64, 79
+  orig: 64, 79
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 532, 169
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1
+lex1
+  rotate: true
+  xy: 821, 218
+  size: 36, 92
+  orig: 36, 92
+  offset: 0, 0
+  index: -1
+lex2
+  rotate: true
+  xy: 726, 206
+  size: 48, 93
+  orig: 48, 93
+  offset: 0, 0
+  index: -1
+lex3
+  rotate: false
+  xy: 398, 125
+  size: 74, 129
+  orig: 74, 129
+  offset: 0, 0
+  index: -1
+lex4
+  rotate: true
+  xy: 2, 22
+  size: 85, 134
+  orig: 85, 134
+  offset: 0, 0
+  index: -1
+lex5
+  rotate: true
+  xy: 618, 182
+  size: 20, 101
+  orig: 20, 101
+  offset: 0, 0
+  index: -1
+lexB1
+  rotate: false
+  xy: 321, 118
+  size: 75, 136
+  orig: 75, 136
+  offset: 0, 0
+  index: -1
+lexB2
+  rotate: false
+  xy: 474, 126
+  size: 56, 128
+  orig: 56, 128
+  offset: 0, 0
+  index: -1
+lexB3
+  rotate: true
+  xy: 618, 204
+  size: 50, 106
+  orig: 50, 106
+  offset: 0, 0
+  index: -1
+lexL
+  rotate: false
+  xy: 434, 70
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+lexR
+  rotate: true
+  xy: 49, 8
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+lexT
+  rotate: false
+  xy: 915, 191
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 164, 2
+  size: 6, 2
+  orig: 6, 2
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 993, 192
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+wearL
+  rotate: false
+  xy: 138, 33
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+wearR
+  rotate: false
+  xy: 192, 39
+  size: 33, 73
+  orig: 33, 73
+  offset: 0, 0
+  index: -1
+wearT
+  rotate: false
+  xy: 192, 2
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1

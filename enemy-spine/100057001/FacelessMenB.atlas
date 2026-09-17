@@ -1,0 +1,132 @@
+
+FacelessMenB.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: true
+  xy: 97, 7
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 125, 32
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 128, 10
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: false
+  xy: 66, 15
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 154, 37
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 97, 30
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: true
+  xy: 226, 2
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 202, 5
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+Rhand2
+  rotate: false
+  xy: 155, 15
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Rhand3
+  rotate: true
+  xy: 181, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: false
+  xy: 226, 29
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: false
+  xy: 198, 25
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+bangs1
+  rotate: false
+  xy: 78, 57
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+bangs2
+  rotate: false
+  xy: 2, 51
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 12
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 154, 65
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 78, 51
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 226, 64
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1

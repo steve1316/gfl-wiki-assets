@@ -1,0 +1,111 @@
+
+EliteBGBreakout.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: true
+  xy: 298, 62
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 265, 27
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: true
+  xy: 217, 5
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: false
+  xy: 407, 71
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 451, 78
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 217, 35
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: true
+  xy: 352, 68
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 339, 32
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: false
+  xy: 172, 26
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 298, 32
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+ammo
+  rotate: false
+  xy: 494, 90
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 87, 26
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 24
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 172, 67
+  size: 124, 43
+  orig: 124, 43
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
